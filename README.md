@@ -1,3 +1,13 @@
+# Paper Practice - MeshTransformer
+
+This is a repository for practice implementation of 'MeshTransforemr'
+
+Details of Review for [blog](https://jjuke-brain.tistory.com/entry/%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0-2021-CVPR-End-to-End-Human-Pose-and-Mesh-Reconstruction-with-Transformers?category=958826)
+
+Details of implementation process for [blog](https://jjuke-brain.tistory.com/entry/%EB%85%BC%EB%AC%B8-%EA%B5%AC%ED%98%84-2021-CVPR-End-to-End-Human-Pose-and-Mesh-Reconstruction-with-Transformers?category=958826)
+
+---
+
 # MeshTransformer ✨
 
 This is our research code of [End-to-End Human Pose and Mesh Reconstruction with Transformers](https://arxiv.org/abs/2012.09760). 
