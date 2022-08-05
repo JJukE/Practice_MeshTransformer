@@ -1,0 +1,333 @@
+
+2022-08-03 22:32:07,150 METRO INFO: Local rank: 0 Max iteration: 119010 iters_per_epoch: 3967 num_train_epochs: 30
+INFO:METRO:Local rank: 0 Max iteration: 119010 iters_per_epoch: 3967 num_train_epochs: 30
+INFO:METRO:eta: 1 day, 5:40:01 epoch: 0 iter: 1000 max mem : 19505  loss: 52.2588, 2d joint loss: 0.0520, 3d joint loss: 0.0310, vertex loss: 0.1605, compute: 0.9050, data: 0.0090, lr: 0.000100
+2022-08-03 22:47:12,177 METRO INFO: eta: 1 day, 5:40:01 epoch: 0 iter: 1000 max mem : 19505  loss: 52.2588, 2d joint loss: 0.0520, 3d joint loss: 0.0310, vertex loss: 0.1605, compute: 0.9050, data: 0.0090, lr: 0.000100
+INFO:METRO:eta: 1 day, 5:20:32 epoch: 0 iter: 2000 max mem : 19505  loss: 40.0306, 2d joint loss: 0.0380, 3d joint loss: 0.0234, vertex loss: 0.1287, compute: 0.9028, data: 0.0081, lr: 0.000100
+2022-08-03 23:02:12,689 METRO INFO: eta: 1 day, 5:20:32 epoch: 0 iter: 2000 max mem : 19505  loss: 40.0306, 2d joint loss: 0.0380, 3d joint loss: 0.0234, vertex loss: 0.1287, compute: 0.9028, data: 0.0081, lr: 0.000100
+2022-08-03 23:17:15,733 METRO INFO: eta: 1 day, 5:05:40 epoch: 0 iter: 3000 max mem : 19505  loss: 34.1246, 2d joint loss: 0.0316, 3d joint loss: 0.0198, vertex loss: 0.1115, compute: 0.9029, data: 0.0078, lr: 0.000100
+INFO:METRO:eta: 1 day, 5:05:40 epoch: 0 iter: 3000 max mem : 19505  loss: 34.1246, 2d joint loss: 0.0316, 3d joint loss: 0.0198, vertex loss: 0.1115, compute: 0.9029, data: 0.0078, lr: 0.000100
+INFO:METRO:Validation epoch: 1  mPVE:   0.00, mPJPE:  77.09, PAmPJPE:  57.65, Data Count:   0.00
+INFO:METRO:Failed to save checkpoint after 10 trails.
+2022-08-03 23:33:07,803 METRO INFO: Validation epoch: 1  mPVE:   0.00, mPJPE:  77.09, PAmPJPE:  57.65, Data Count:   0.00
+2022-08-03 23:33:07,806 METRO INFO: Failed to save checkpoint after 10 trails.
+INFO:METRO:eta: 1 day, 5:28:37 epoch: 1 iter: 4000 max mem : 19505  loss: 30.3987, 2d joint loss: 0.0278, 3d joint loss: 0.0176, vertex loss: 0.1003, compute: 0.9227, data: 0.0287, lr: 0.000100
+2022-08-03 23:33:37,905 METRO INFO: eta: 1 day, 5:28:37 epoch: 1 iter: 4000 max mem : 19505  loss: 30.3987, 2d joint loss: 0.0278, 3d joint loss: 0.0176, vertex loss: 0.1003, compute: 0.9227, data: 0.0287, lr: 0.000100
+INFO:METRO:eta: 1 day, 5:05:03 epoch: 1 iter: 5000 max mem : 19505  loss: 27.8312, 2d joint loss: 0.0253, 3d joint loss: 0.0161, vertex loss: 0.0923, compute: 0.9184, data: 0.0244, lr: 0.000100
+2022-08-03 23:48:39,026 METRO INFO: eta: 1 day, 5:05:03 epoch: 1 iter: 5000 max mem : 19505  loss: 27.8312, 2d joint loss: 0.0253, 3d joint loss: 0.0161, vertex loss: 0.0923, compute: 0.9184, data: 0.0244, lr: 0.000100
+INFO:METRO:eta: 1 day, 4:45:22 epoch: 1 iter: 6000 max mem : 19505  loss: 25.8765, 2d joint loss: 0.0234, 3d joint loss: 0.0149, vertex loss: 0.0862, compute: 0.9160, data: 0.0216, lr: 0.000100
+2022-08-04 00:03:43,444 METRO INFO: eta: 1 day, 4:45:22 epoch: 1 iter: 6000 max mem : 19505  loss: 25.8765, 2d joint loss: 0.0234, 3d joint loss: 0.0149, vertex loss: 0.0862, compute: 0.9160, data: 0.0216, lr: 0.000100
+INFO:METRO:eta: 1 day, 4:26:41 epoch: 1 iter: 7000 max mem : 19505  loss: 24.3787, 2d joint loss: 0.0219, 3d joint loss: 0.0140, vertex loss: 0.0815, compute: 0.9142, data: 0.0196, lr: 0.000100
+2022-08-04 00:18:46,716 METRO INFO: eta: 1 day, 4:26:41 epoch: 1 iter: 7000 max mem : 19505  loss: 24.3787, 2d joint loss: 0.0219, 3d joint loss: 0.0140, vertex loss: 0.0815, compute: 0.9142, data: 0.0196, lr: 0.000100
+INFO:METRO:Validation epoch: 2  mPVE:   0.00, mPJPE:  81.28, PAmPJPE:  55.15, Data Count:   0.00
+INFO:METRO:Failed to save checkpoint after 10 trails.
+2022-08-04 00:34:12,122 METRO INFO: Validation epoch: 2  mPVE:   0.00, mPJPE:  81.28, PAmPJPE:  55.15, Data Count:   0.00
+2022-08-04 00:34:12,127 METRO INFO: Failed to save checkpoint after 10 trails.
+INFO:METRO:eta: 1 day, 4:27:58 epoch: 2 iter: 8000 max mem : 19505  loss: 23.1675, 2d joint loss: 0.0208, 3d joint loss: 0.0133, vertex loss: 0.0777, compute: 0.9232, data: 0.0281, lr: 0.000100
+2022-08-04 00:35:12,403 METRO INFO: eta: 1 day, 4:27:58 epoch: 2 iter: 8000 max mem : 19505  loss: 23.1675, 2d joint loss: 0.0208, 3d joint loss: 0.0133, vertex loss: 0.0777, compute: 0.9232, data: 0.0281, lr: 0.000100
+INFO:METRO:eta: 1 day, 4:09:22 epoch: 2 iter: 9000 max mem : 19505  loss: 22.0806, 2d joint loss: 0.0198, 3d joint loss: 0.0127, vertex loss: 0.0744, compute: 0.9214, data: 0.0257, lr: 0.000100
+2022-08-04 00:50:19,728 METRO INFO: eta: 1 day, 4:09:22 epoch: 2 iter: 9000 max mem : 19505  loss: 22.0806, 2d joint loss: 0.0198, 3d joint loss: 0.0127, vertex loss: 0.0744, compute: 0.9214, data: 0.0257, lr: 0.000100
+2022-08-04 01:05:25,516 METRO INFO: eta: 1 day, 3:51:10 epoch: 2 iter: 10000 max mem : 19505  loss: 21.2589, 2d joint loss: 0.0190, 3d joint loss: 0.0122, vertex loss: 0.0717, compute: 0.9198, data: 0.0239, lr: 0.000100
+INFO:METRO:eta: 1 day, 3:51:10 epoch: 2 iter: 10000 max mem : 19505  loss: 21.2589, 2d joint loss: 0.0190, 3d joint loss: 0.0122, vertex loss: 0.0717, compute: 0.9198, data: 0.0239, lr: 0.000100
+INFO:METRO:eta: 1 day, 3:33:21 epoch: 2 iter: 11000 max mem : 19505  loss: 20.5132, 2d joint loss: 0.0183, 3d joint loss: 0.0117, vertex loss: 0.0694, compute: 0.9185, data: 0.0224, lr: 0.000100
+2022-08-04 01:20:30,176 METRO INFO: eta: 1 day, 3:33:21 epoch: 2 iter: 11000 max mem : 19505  loss: 20.5132, 2d joint loss: 0.0183, 3d joint loss: 0.0117, vertex loss: 0.0694, compute: 0.9185, data: 0.0224, lr: 0.000100
+INFO:METRO:Validation epoch: 3  mPVE:   0.00, mPJPE:  68.63, PAmPJPE:  50.15, Data Count:   0.00
+INFO:METRO:Failed to save checkpoint after 10 trails.
+2022-08-04 01:35:23,510 METRO INFO: Validation epoch: 3  mPVE:   0.00, mPJPE:  68.63, PAmPJPE:  50.15, Data Count:   0.00
+2022-08-04 01:35:23,514 METRO INFO: Failed to save checkpoint after 10 trails.
+INFO:METRO:eta: 1 day, 3:27:35 epoch: 3 iter: 12000 max mem : 19505  loss: 19.8376, 2d joint loss: 0.0176, 3d joint loss: 0.0113, vertex loss: 0.0673, compute: 0.9238, data: 0.0275, lr: 0.000100
+2022-08-04 01:36:52,736 METRO INFO: eta: 1 day, 3:27:35 epoch: 3 iter: 12000 max mem : 19505  loss: 19.8376, 2d joint loss: 0.0176, 3d joint loss: 0.0113, vertex loss: 0.0673, compute: 0.9238, data: 0.0275, lr: 0.000100
+INFO:METRO:eta: 1 day, 3:09:39 epoch: 3 iter: 13000 max mem : 19505  loss: 19.2179, 2d joint loss: 0.0171, 3d joint loss: 0.0110, vertex loss: 0.0654, compute: 0.9224, data: 0.0260, lr: 0.000100
+2022-08-04 01:51:57,858 METRO INFO: eta: 1 day, 3:09:39 epoch: 3 iter: 13000 max mem : 19505  loss: 19.2179, 2d joint loss: 0.0171, 3d joint loss: 0.0110, vertex loss: 0.0654, compute: 0.9224, data: 0.0260, lr: 0.000100
+2022-08-04 02:07:03,613 METRO INFO: eta: 1 day, 2:52:12 epoch: 3 iter: 14000 max mem : 19505  loss: 18.7044, 2d joint loss: 0.0166, 3d joint loss: 0.0107, vertex loss: 0.0638, compute: 0.9212, data: 0.0246, lr: 0.000100
+INFO:METRO:eta: 1 day, 2:52:12 epoch: 3 iter: 14000 max mem : 19505  loss: 18.7044, 2d joint loss: 0.0166, 3d joint loss: 0.0107, vertex loss: 0.0638, compute: 0.9212, data: 0.0246, lr: 0.000100
+2022-08-04 02:22:06,915 METRO INFO: eta: 1 day, 2:34:47 epoch: 3 iter: 15000 max mem : 19505  loss: 18.2029, 2d joint loss: 0.0161, 3d joint loss: 0.0104, vertex loss: 0.0623, compute: 0.9200, data: 0.0235, lr: 0.000100
+INFO:METRO:eta: 1 day, 2:34:47 epoch: 3 iter: 15000 max mem : 19505  loss: 18.2029, 2d joint loss: 0.0161, 3d joint loss: 0.0104, vertex loss: 0.0623, compute: 0.9200, data: 0.0235, lr: 0.000100
+INFO:METRO:Validation epoch: 4  mPVE:   0.00, mPJPE:  64.32, PAmPJPE:  46.82, Data Count:   0.00
+INFO:METRO:Failed to save checkpoint after 10 trails.
+2022-08-04 02:36:32,108 METRO INFO: Validation epoch: 4  mPVE:   0.00, mPJPE:  64.32, PAmPJPE:  46.82, Data Count:   0.00
+2022-08-04 02:36:32,112 METRO INFO: Failed to save checkpoint after 10 trails.
+INFO:METRO:eta: 1 day, 2:26:25 epoch: 4 iter: 16000 max mem : 19505  loss: 17.7930, 2d joint loss: 0.0158, 3d joint loss: 0.0101, vertex loss: 0.0610, compute: 0.9240, data: 0.0273, lr: 0.000100
+2022-08-04 02:38:31,866 METRO INFO: eta: 1 day, 2:26:25 epoch: 4 iter: 16000 max mem : 19505  loss: 17.7930, 2d joint loss: 0.0158, 3d joint loss: 0.0101, vertex loss: 0.0610, compute: 0.9240, data: 0.0273, lr: 0.000100
+INFO:METRO:eta: 1 day, 2:09:17 epoch: 4 iter: 17000 max mem : 19505  loss: 17.4014, 2d joint loss: 0.0154, 3d joint loss: 0.0099, vertex loss: 0.0598, compute: 0.9230, data: 0.0261, lr: 0.000100
+2022-08-04 02:53:38,698 METRO INFO: eta: 1 day, 2:09:17 epoch: 4 iter: 17000 max mem : 19505  loss: 17.4014, 2d joint loss: 0.0154, 3d joint loss: 0.0099, vertex loss: 0.0598, compute: 0.9230, data: 0.0261, lr: 0.000100
+INFO:METRO:eta: 1 day, 1:52:23 epoch: 4 iter: 18000 max mem : 19505  loss: 17.0523, 2d joint loss: 0.0151, 3d joint loss: 0.0097, vertex loss: 0.0587, compute: 0.9221, data: 0.0251, lr: 0.000100
+2022-08-04 03:08:45,504 METRO INFO: eta: 1 day, 1:52:23 epoch: 4 iter: 18000 max mem : 19505  loss: 17.0523, 2d joint loss: 0.0151, 3d joint loss: 0.0097, vertex loss: 0.0587, compute: 0.9221, data: 0.0251, lr: 0.000100
+INFO:METRO:eta: 1 day, 1:35:34 epoch: 4 iter: 19000 max mem : 19505  loss: 16.7197, 2d joint loss: 0.0148, 3d joint loss: 0.0095, vertex loss: 0.0577, compute: 0.9213, data: 0.0242, lr: 0.000100
+2022-08-04 03:23:51,027 METRO INFO: eta: 1 day, 1:35:34 epoch: 4 iter: 19000 max mem : 19505  loss: 16.7197, 2d joint loss: 0.0148, 3d joint loss: 0.0095, vertex loss: 0.0577, compute: 0.9213, data: 0.0242, lr: 0.000100
+2022-08-04 03:37:44,292 METRO INFO: Validation epoch: 5  mPVE:   0.00, mPJPE:  65.03, PAmPJPE:  50.03, Data Count:   0.00
+INFO:METRO:Validation epoch: 5  mPVE:   0.00, mPJPE:  65.03, PAmPJPE:  50.03, Data Count:   0.00
+INFO:METRO:eta: 1 day, 1:25:34 epoch: 5 iter: 20000 max mem : 19505  loss: 16.3965, 2d joint loss: 0.0145, 3d joint loss: 0.0093, vertex loss: 0.0568, compute: 0.9245, data: 0.0272, lr: 0.000100
+2022-08-04 03:40:17,163 METRO INFO: eta: 1 day, 1:25:34 epoch: 5 iter: 20000 max mem : 19505  loss: 16.3965, 2d joint loss: 0.0145, 3d joint loss: 0.0093, vertex loss: 0.0568, compute: 0.9245, data: 0.0272, lr: 0.000100
+INFO:METRO:eta: 1 day, 1:08:57 epoch: 5 iter: 21000 max mem : 19505  loss: 16.0914, 2d joint loss: 0.0142, 3d joint loss: 0.0091, vertex loss: 0.0559, compute: 0.9238, data: 0.0262, lr: 0.000100
+2022-08-04 03:55:26,221 METRO INFO: eta: 1 day, 1:08:57 epoch: 5 iter: 21000 max mem : 19505  loss: 16.0914, 2d joint loss: 0.0142, 3d joint loss: 0.0091, vertex loss: 0.0559, compute: 0.9238, data: 0.0262, lr: 0.000100
+INFO:METRO:eta: 1 day, 0:52:20 epoch: 5 iter: 22000 max mem : 19505  loss: 15.8271, 2d joint loss: 0.0139, 3d joint loss: 0.0089, vertex loss: 0.0551, compute: 0.9230, data: 0.0254, lr: 0.000100
+2022-08-04 04:10:33,361 METRO INFO: eta: 1 day, 0:52:20 epoch: 5 iter: 22000 max mem : 19505  loss: 15.8271, 2d joint loss: 0.0139, 3d joint loss: 0.0089, vertex loss: 0.0551, compute: 0.9230, data: 0.0254, lr: 0.000100
+INFO:METRO:eta: 1 day, 0:35:48 epoch: 5 iter: 23000 max mem : 19505  loss: 15.5671, 2d joint loss: 0.0137, 3d joint loss: 0.0088, vertex loss: 0.0543, compute: 0.9223, data: 0.0246, lr: 0.000100
+2022-08-04 04:25:39,907 METRO INFO: eta: 1 day, 0:35:48 epoch: 5 iter: 23000 max mem : 19505  loss: 15.5671, 2d joint loss: 0.0137, 3d joint loss: 0.0088, vertex loss: 0.0543, compute: 0.9223, data: 0.0246, lr: 0.000100
+INFO:METRO:Validation epoch: 6  mPVE:   0.00, mPJPE:  64.69, PAmPJPE:  46.53, Data Count:   0.00
+INFO:METRO:Failed to save checkpoint after 10 trails.
+2022-08-04 04:39:07,572 METRO INFO: Validation epoch: 6  mPVE:   0.00, mPJPE:  64.69, PAmPJPE:  46.53, Data Count:   0.00
+2022-08-04 04:39:07,578 METRO INFO: Failed to save checkpoint after 10 trails.
+INFO:METRO:eta: 1 day, 0:24:39 epoch: 6 iter: 24000 max mem : 19505  loss: 15.3220, 2d joint loss: 0.0135, 3d joint loss: 0.0086, vertex loss: 0.0536, compute: 0.9250, data: 0.0274, lr: 0.000100
+2022-08-04 04:42:06,175 METRO INFO: eta: 1 day, 0:24:39 epoch: 6 iter: 24000 max mem : 19505  loss: 15.3220, 2d joint loss: 0.0135, 3d joint loss: 0.0086, vertex loss: 0.0536, compute: 0.9250, data: 0.0274, lr: 0.000100
+2022-08-04 04:57:10,143 METRO INFO: eta: 1 day, 0:07:55 epoch: 6 iter: 25000 max mem : 19505  loss: 15.0867, 2d joint loss: 0.0133, 3d joint loss: 0.0085, vertex loss: 0.0529, compute: 0.9241, data: 0.0266, lr: 0.000100
+INFO:METRO:eta: 1 day, 0:07:55 epoch: 6 iter: 25000 max mem : 19505  loss: 15.0867, 2d joint loss: 0.0133, 3d joint loss: 0.0085, vertex loss: 0.0529, compute: 0.9241, data: 0.0266, lr: 0.000100
+INFO:METRO:eta: 23:51:21 epoch: 6 iter: 26000 max mem : 19505  loss: 14.8668, 2d joint loss: 0.0131, 3d joint loss: 0.0083, vertex loss: 0.0522, compute: 0.9234, data: 0.0259, lr: 0.000100
+2022-08-04 05:12:14,609 METRO INFO: eta: 23:51:21 epoch: 6 iter: 26000 max mem : 19505  loss: 14.8668, 2d joint loss: 0.0131, 3d joint loss: 0.0083, vertex loss: 0.0522, compute: 0.9234, data: 0.0259, lr: 0.000100
+2022-08-04 05:27:20,327 METRO INFO: eta: 23:34:58 epoch: 6 iter: 27000 max mem : 19505  loss: 14.6704, 2d joint loss: 0.0129, 3d joint loss: 0.0082, vertex loss: 0.0516, compute: 0.9227, data: 0.0252, lr: 0.000100
+INFO:METRO:eta: 23:34:58 epoch: 6 iter: 27000 max mem : 19505  loss: 14.6704, 2d joint loss: 0.0129, 3d joint loss: 0.0082, vertex loss: 0.0516, compute: 0.9227, data: 0.0252, lr: 0.000100
+INFO:METRO:Validation epoch: 7  mPVE:   0.00, mPJPE:  60.20, PAmPJPE:  44.05, Data Count:   0.00
+INFO:METRO:Failed to save checkpoint after 10 trails.
+2022-08-04 05:40:20,145 METRO INFO: Validation epoch: 7  mPVE:   0.00, mPJPE:  60.20, PAmPJPE:  44.05, Data Count:   0.00
+2022-08-04 05:40:20,151 METRO INFO: Failed to save checkpoint after 10 trails.
+INFO:METRO:eta: 23:23:08 epoch: 7 iter: 28000 max mem : 19505  loss: 14.4833, 2d joint loss: 0.0128, 3d joint loss: 0.0081, vertex loss: 0.0511, compute: 0.9250, data: 0.0274, lr: 0.000100
+2022-08-04 05:43:48,692 METRO INFO: eta: 23:23:08 epoch: 7 iter: 28000 max mem : 19505  loss: 14.4833, 2d joint loss: 0.0128, 3d joint loss: 0.0081, vertex loss: 0.0511, compute: 0.9250, data: 0.0274, lr: 0.000100
+INFO:METRO:eta: 23:06:47 epoch: 7 iter: 29000 max mem : 19505  loss: 14.3102, 2d joint loss: 0.0126, 3d joint loss: 0.0080, vertex loss: 0.0505, compute: 0.9244, data: 0.0268, lr: 0.000100
+2022-08-04 05:58:55,710 METRO INFO: eta: 23:06:47 epoch: 7 iter: 29000 max mem : 19505  loss: 14.3102, 2d joint loss: 0.0126, 3d joint loss: 0.0080, vertex loss: 0.0505, compute: 0.9244, data: 0.0268, lr: 0.000100
+INFO:METRO:eta: 22:50:28 epoch: 7 iter: 30000 max mem : 19505  loss: 14.1254, 2d joint loss: 0.0124, 3d joint loss: 0.0079, vertex loss: 0.0500, compute: 0.9238, data: 0.0261, lr: 0.000100
+2022-08-04 06:14:01,702 METRO INFO: eta: 22:50:28 epoch: 7 iter: 30000 max mem : 19505  loss: 14.1254, 2d joint loss: 0.0124, 3d joint loss: 0.0079, vertex loss: 0.0500, compute: 0.9238, data: 0.0261, lr: 0.000100
+INFO:METRO:eta: 22:34:14 epoch: 7 iter: 31000 max mem : 19505  loss: 13.9631, 2d joint loss: 0.0123, 3d joint loss: 0.0078, vertex loss: 0.0495, compute: 0.9232, data: 0.0255, lr: 0.000100
+2022-08-04 06:29:07,891 METRO INFO: eta: 22:34:14 epoch: 7 iter: 31000 max mem : 19505  loss: 13.9631, 2d joint loss: 0.0123, 3d joint loss: 0.0078, vertex loss: 0.0495, compute: 0.9232, data: 0.0255, lr: 0.000100
+2022-08-04 06:41:35,275 METRO INFO: Validation epoch: 8  mPVE:   0.00, mPJPE:  66.04, PAmPJPE:  44.35, Data Count:   0.00
+INFO:METRO:Validation epoch: 8  mPVE:   0.00, mPJPE:  66.04, PAmPJPE:  44.35, Data Count:   0.00
+INFO:METRO:eta: 22:21:42 epoch: 8 iter: 32000 max mem : 19505  loss: 13.7966, 2d joint loss: 0.0121, 3d joint loss: 0.0077, vertex loss: 0.0490, compute: 0.9252, data: 0.0274, lr: 0.000100
+2022-08-04 06:45:34,186 METRO INFO: eta: 22:21:42 epoch: 8 iter: 32000 max mem : 19505  loss: 13.7966, 2d joint loss: 0.0121, 3d joint loss: 0.0077, vertex loss: 0.0490, compute: 0.9252, data: 0.0274, lr: 0.000100
+INFO:METRO:eta: 22:05:26 epoch: 8 iter: 33000 max mem : 19505  loss: 13.6335, 2d joint loss: 0.0120, 3d joint loss: 0.0076, vertex loss: 0.0486, compute: 0.9246, data: 0.0268, lr: 0.000100
+2022-08-04 07:00:39,822 METRO INFO: eta: 22:05:26 epoch: 8 iter: 33000 max mem : 19505  loss: 13.6335, 2d joint loss: 0.0120, 3d joint loss: 0.0076, vertex loss: 0.0486, compute: 0.9246, data: 0.0268, lr: 0.000100
+2022-08-04 07:15:47,789 METRO INFO: eta: 21:49:20 epoch: 8 iter: 34000 max mem : 19505  loss: 13.4801, 2d joint loss: 0.0118, 3d joint loss: 0.0075, vertex loss: 0.0481, compute: 0.9241, data: 0.0262, lr: 0.000100
+INFO:METRO:eta: 21:49:20 epoch: 8 iter: 34000 max mem : 19505  loss: 13.4801, 2d joint loss: 0.0118, 3d joint loss: 0.0075, vertex loss: 0.0481, compute: 0.9241, data: 0.0262, lr: 0.000100
+2022-08-04 07:30:53,300 METRO INFO: eta: 21:33:11 epoch: 8 iter: 35000 max mem : 19505  loss: 13.3380, 2d joint loss: 0.0117, 3d joint loss: 0.0074, vertex loss: 0.0477, compute: 0.9236, data: 0.0257, lr: 0.000100
+INFO:METRO:eta: 21:33:11 epoch: 8 iter: 35000 max mem : 19505  loss: 13.3380, 2d joint loss: 0.0117, 3d joint loss: 0.0074, vertex loss: 0.0477, compute: 0.9236, data: 0.0257, lr: 0.000100
+INFO:METRO:Validation epoch: 9  mPVE:   0.00, mPJPE:  59.21, PAmPJPE:  42.71, Data Count:   0.00
+INFO:METRO:Failed to save checkpoint after 10 trails.
+2022-08-04 07:42:50,866 METRO INFO: Validation epoch: 9  mPVE:   0.00, mPJPE:  59.21, PAmPJPE:  42.71, Data Count:   0.00
+2022-08-04 07:42:50,870 METRO INFO: Failed to save checkpoint after 10 trails.
+2022-08-04 07:47:23,660 METRO INFO: eta: 21:20:21 epoch: 9 iter: 36000 max mem : 19505  loss: 13.2020, 2d joint loss: 0.0116, 3d joint loss: 0.0073, vertex loss: 0.0473, compute: 0.9255, data: 0.0274, lr: 0.000100
+INFO:METRO:eta: 21:20:21 epoch: 9 iter: 36000 max mem : 19505  loss: 13.2020, 2d joint loss: 0.0116, 3d joint loss: 0.0073, vertex loss: 0.0473, compute: 0.9255, data: 0.0274, lr: 0.000100
+INFO:METRO:eta: 21:04:05 epoch: 9 iter: 37000 max mem : 19505  loss: 13.0668, 2d joint loss: 0.0115, 3d joint loss: 0.0072, vertex loss: 0.0469, compute: 0.9248, data: 0.0268, lr: 0.000100
+2022-08-04 08:02:26,294 METRO INFO: eta: 21:04:05 epoch: 9 iter: 37000 max mem : 19505  loss: 13.0668, 2d joint loss: 0.0115, 3d joint loss: 0.0072, vertex loss: 0.0469, compute: 0.9248, data: 0.0268, lr: 0.000100
+INFO:METRO:eta: 20:48:03 epoch: 9 iter: 38000 max mem : 19505  loss: 12.9414, 2d joint loss: 0.0114, 3d joint loss: 0.0071, vertex loss: 0.0466, compute: 0.9244, data: 0.0263, lr: 0.000100
+2022-08-04 08:17:33,557 METRO INFO: eta: 20:48:03 epoch: 9 iter: 38000 max mem : 19505  loss: 12.9414, 2d joint loss: 0.0114, 3d joint loss: 0.0071, vertex loss: 0.0466, compute: 0.9244, data: 0.0263, lr: 0.000100
+2022-08-04 08:32:41,553 METRO INFO: eta: 20:32:05 epoch: 9 iter: 39000 max mem : 19505  loss: 12.8210, 2d joint loss: 0.0113, 3d joint loss: 0.0071, vertex loss: 0.0462, compute: 0.9240, data: 0.0258, lr: 0.000100
+INFO:METRO:eta: 20:32:05 epoch: 9 iter: 39000 max mem : 19505  loss: 12.8210, 2d joint loss: 0.0113, 3d joint loss: 0.0071, vertex loss: 0.0462, compute: 0.9240, data: 0.0258, lr: 0.000100
+2022-08-04 08:44:06,223 METRO INFO: Validation epoch: 10  mPVE:   0.00, mPJPE:  60.48, PAmPJPE:  42.72, Data Count:   0.00
+INFO:METRO:Validation epoch: 10  mPVE:   0.00, mPJPE:  60.48, PAmPJPE:  42.72, Data Count:   0.00
+2022-08-04 08:49:09,019 METRO INFO: eta: 20:18:47 epoch: 10 iter: 40000 max mem : 19505  loss: 12.7016, 2d joint loss: 0.0112, 3d joint loss: 0.0070, vertex loss: 0.0459, compute: 0.9255, data: 0.0274, lr: 0.000100
+INFO:METRO:eta: 20:18:47 epoch: 10 iter: 40000 max mem : 19505  loss: 12.7016, 2d joint loss: 0.0112, 3d joint loss: 0.0070, vertex loss: 0.0459, compute: 0.9255, data: 0.0274, lr: 0.000100
+2022-08-04 09:04:16,337 METRO INFO: eta: 20:02:46 epoch: 10 iter: 41000 max mem : 19505  loss: 12.5884, 2d joint loss: 0.0111, 3d joint loss: 0.0069, vertex loss: 0.0455, compute: 0.9251, data: 0.0269, lr: 0.000100
+INFO:METRO:eta: 20:02:46 epoch: 10 iter: 41000 max mem : 19505  loss: 12.5884, 2d joint loss: 0.0111, 3d joint loss: 0.0069, vertex loss: 0.0455, compute: 0.9251, data: 0.0269, lr: 0.000100
+INFO:METRO:eta: 19:46:48 epoch: 10 iter: 42000 max mem : 19505  loss: 12.4789, 2d joint loss: 0.0110, 3d joint loss: 0.0069, vertex loss: 0.0452, compute: 0.9247, data: 0.0264, lr: 0.000100
+2022-08-04 09:19:23,265 METRO INFO: eta: 19:46:48 epoch: 10 iter: 42000 max mem : 19505  loss: 12.4789, 2d joint loss: 0.0110, 3d joint loss: 0.0069, vertex loss: 0.0452, compute: 0.9247, data: 0.0264, lr: 0.000100
+2022-08-04 09:34:30,299 METRO INFO: eta: 19:30:52 epoch: 10 iter: 43000 max mem : 19505  loss: 12.3779, 2d joint loss: 0.0109, 3d joint loss: 0.0068, vertex loss: 0.0449, compute: 0.9243, data: 0.0260, lr: 0.000100
+INFO:METRO:eta: 19:30:52 epoch: 10 iter: 43000 max mem : 19505  loss: 12.3779, 2d joint loss: 0.0109, 3d joint loss: 0.0068, vertex loss: 0.0449, compute: 0.9243, data: 0.0260, lr: 0.000100
+2022-08-04 09:45:28,338 METRO INFO: Validation epoch: 11  mPVE:   0.00, mPJPE:  60.20, PAmPJPE:  43.31, Data Count:   0.00
+INFO:METRO:Validation epoch: 11  mPVE:   0.00, mPJPE:  60.20, PAmPJPE:  43.31, Data Count:   0.00
+INFO:METRO:eta: 19:17:09 epoch: 11 iter: 44000 max mem : 19505  loss: 12.2712, 2d joint loss: 0.0108, 3d joint loss: 0.0067, vertex loss: 0.0446, compute: 0.9256, data: 0.0274, lr: 0.000100
+2022-08-04 09:50:53,925 METRO INFO: eta: 19:17:09 epoch: 11 iter: 44000 max mem : 19505  loss: 12.2712, 2d joint loss: 0.0108, 3d joint loss: 0.0067, vertex loss: 0.0446, compute: 0.9256, data: 0.0274, lr: 0.000100
+2022-08-04 10:06:05,183 METRO INFO: eta: 19:01:20 epoch: 11 iter: 45000 max mem : 19505  loss: 12.1638, 2d joint loss: 0.0107, 3d joint loss: 0.0067, vertex loss: 0.0443, compute: 0.9253, data: 0.0270, lr: 0.000100
+INFO:METRO:eta: 19:01:20 epoch: 11 iter: 45000 max mem : 19505  loss: 12.1638, 2d joint loss: 0.0107, 3d joint loss: 0.0067, vertex loss: 0.0443, compute: 0.9253, data: 0.0270, lr: 0.000100
+2022-08-04 10:21:15,751 METRO INFO: eta: 18:45:31 epoch: 11 iter: 46000 max mem : 19505  loss: 12.0652, 2d joint loss: 0.0106, 3d joint loss: 0.0066, vertex loss: 0.0441, compute: 0.9250, data: 0.0266, lr: 0.000100
+INFO:METRO:eta: 18:45:31 epoch: 11 iter: 46000 max mem : 19505  loss: 12.0652, 2d joint loss: 0.0106, 3d joint loss: 0.0066, vertex loss: 0.0441, compute: 0.9250, data: 0.0266, lr: 0.000100
+2022-08-04 10:36:22,739 METRO INFO: eta: 18:29:39 epoch: 11 iter: 47000 max mem : 19505  loss: 11.9677, 2d joint loss: 0.0105, 3d joint loss: 0.0065, vertex loss: 0.0438, compute: 0.9246, data: 0.0262, lr: 0.000100
+INFO:METRO:eta: 18:29:39 epoch: 11 iter: 47000 max mem : 19505  loss: 11.9677, 2d joint loss: 0.0105, 3d joint loss: 0.0065, vertex loss: 0.0438, compute: 0.9246, data: 0.0262, lr: 0.000100
+2022-08-04 10:46:53,385 METRO INFO: Validation epoch: 12  mPVE:   0.00, mPJPE:  59.76, PAmPJPE:  42.98, Data Count:   0.00
+INFO:METRO:Validation epoch: 12  mPVE:   0.00, mPJPE:  59.76, PAmPJPE:  42.98, Data Count:   0.00
+2022-08-04 10:52:49,867 METRO INFO: eta: 18:15:47 epoch: 12 iter: 48000 max mem : 19505  loss: 11.8799, 2d joint loss: 0.0104, 3d joint loss: 0.0065, vertex loss: 0.0435, compute: 0.9259, data: 0.0274, lr: 0.000100
+INFO:METRO:eta: 18:15:47 epoch: 12 iter: 48000 max mem : 19505  loss: 11.8799, 2d joint loss: 0.0104, 3d joint loss: 0.0065, vertex loss: 0.0435, compute: 0.9259, data: 0.0274, lr: 0.000100
+2022-08-04 11:07:57,007 METRO INFO: eta: 17:59:54 epoch: 12 iter: 49000 max mem : 19505  loss: 11.7899, 2d joint loss: 0.0103, 3d joint loss: 0.0064, vertex loss: 0.0433, compute: 0.9255, data: 0.0270, lr: 0.000100
+INFO:METRO:eta: 17:59:54 epoch: 12 iter: 49000 max mem : 19505  loss: 11.7899, 2d joint loss: 0.0103, 3d joint loss: 0.0064, vertex loss: 0.0433, compute: 0.9255, data: 0.0270, lr: 0.000100
+INFO:METRO:eta: 17:44:06 epoch: 12 iter: 50000 max mem : 19505  loss: 11.7118, 2d joint loss: 0.0103, 3d joint loss: 0.0064, vertex loss: 0.0430, compute: 0.9252, data: 0.0266, lr: 0.000100
+2022-08-04 11:23:06,591 METRO INFO: eta: 17:44:06 epoch: 12 iter: 50000 max mem : 19505  loss: 11.7118, 2d joint loss: 0.0103, 3d joint loss: 0.0064, vertex loss: 0.0430, compute: 0.9252, data: 0.0266, lr: 0.000100
+2022-08-04 11:38:16,869 METRO INFO: eta: 17:28:21 epoch: 12 iter: 51000 max mem : 19505  loss: 11.6315, 2d joint loss: 0.0102, 3d joint loss: 0.0063, vertex loss: 0.0428, compute: 0.9249, data: 0.0262, lr: 0.000100
+INFO:METRO:eta: 17:28:21 epoch: 12 iter: 51000 max mem : 19505  loss: 11.6315, 2d joint loss: 0.0102, 3d joint loss: 0.0063, vertex loss: 0.0428, compute: 0.9249, data: 0.0262, lr: 0.000100
+2022-08-04 11:48:16,034 METRO INFO: Validation epoch: 13  mPVE:   0.00, mPJPE:  62.76, PAmPJPE:  43.78, Data Count:   0.00
+INFO:METRO:Validation epoch: 13  mPVE:   0.00, mPJPE:  62.76, PAmPJPE:  43.78, Data Count:   0.00
+2022-08-04 11:54:42,524 METRO INFO: eta: 17:14:15 epoch: 13 iter: 52000 max mem : 19505  loss: 11.5590, 2d joint loss: 0.0101, 3d joint loss: 0.0063, vertex loss: 0.0426, compute: 0.9261, data: 0.0274, lr: 0.000100
+INFO:METRO:eta: 17:14:15 epoch: 13 iter: 52000 max mem : 19505  loss: 11.5590, 2d joint loss: 0.0101, 3d joint loss: 0.0063, vertex loss: 0.0426, compute: 0.9261, data: 0.0274, lr: 0.000100
+2022-08-04 12:09:52,725 METRO INFO: eta: 16:58:29 epoch: 13 iter: 53000 max mem : 19505  loss: 11.4769, 2d joint loss: 0.0101, 3d joint loss: 0.0062, vertex loss: 0.0423, compute: 0.9258, data: 0.0270, lr: 0.000100
+INFO:METRO:eta: 16:58:29 epoch: 13 iter: 53000 max mem : 19505  loss: 11.4769, 2d joint loss: 0.0101, 3d joint loss: 0.0062, vertex loss: 0.0423, compute: 0.9258, data: 0.0270, lr: 0.000100
+2022-08-04 12:25:02,436 METRO INFO: eta: 16:42:44 epoch: 13 iter: 54000 max mem : 19505  loss: 11.4007, 2d joint loss: 0.0100, 3d joint loss: 0.0062, vertex loss: 0.0421, compute: 0.9255, data: 0.0266, lr: 0.000100
+INFO:METRO:eta: 16:42:44 epoch: 13 iter: 54000 max mem : 19505  loss: 11.4007, 2d joint loss: 0.0100, 3d joint loss: 0.0062, vertex loss: 0.0421, compute: 0.9255, data: 0.0266, lr: 0.000100
+2022-08-04 12:40:14,531 METRO INFO: eta: 16:27:03 epoch: 13 iter: 55000 max mem : 19505  loss: 11.3263, 2d joint loss: 0.0099, 3d joint loss: 0.0061, vertex loss: 0.0419, compute: 0.9252, data: 0.0263, lr: 0.000100
+INFO:METRO:eta: 16:27:03 epoch: 13 iter: 55000 max mem : 19505  loss: 11.3263, 2d joint loss: 0.0099, 3d joint loss: 0.0061, vertex loss: 0.0419, compute: 0.9252, data: 0.0263, lr: 0.000100
+2022-08-04 12:49:44,480 METRO INFO: Validation epoch: 14  mPVE:   0.00, mPJPE:  59.66, PAmPJPE:  42.43, Data Count:   0.00
+2022-08-04 12:49:44,484 METRO INFO: Failed to save checkpoint after 10 trails.
+INFO:METRO:Validation epoch: 14  mPVE:   0.00, mPJPE:  59.66, PAmPJPE:  42.43, Data Count:   0.00
+INFO:METRO:Failed to save checkpoint after 10 trails.
+2022-08-04 12:56:46,261 METRO INFO: eta: 16:12:52 epoch: 14 iter: 56000 max mem : 19505  loss: 11.2491, 2d joint loss: 0.0099, 3d joint loss: 0.0061, vertex loss: 0.0417, compute: 0.9264, data: 0.0274, lr: 0.000100
+INFO:METRO:eta: 16:12:52 epoch: 14 iter: 56000 max mem : 19505  loss: 11.2491, 2d joint loss: 0.0099, 3d joint loss: 0.0061, vertex loss: 0.0417, compute: 0.9264, data: 0.0274, lr: 0.000100
+2022-08-04 13:11:53,574 METRO INFO: eta: 15:57:05 epoch: 14 iter: 57000 max mem : 19505  loss: 11.1731, 2d joint loss: 0.0098, 3d joint loss: 0.0060, vertex loss: 0.0415, compute: 0.9261, data: 0.0270, lr: 0.000100
+INFO:METRO:eta: 15:57:05 epoch: 14 iter: 57000 max mem : 19505  loss: 11.1731, 2d joint loss: 0.0098, 3d joint loss: 0.0060, vertex loss: 0.0415, compute: 0.9261, data: 0.0270, lr: 0.000100
+2022-08-04 13:27:01,216 METRO INFO: eta: 15:41:20 epoch: 14 iter: 58000 max mem : 19505  loss: 11.1048, 2d joint loss: 0.0097, 3d joint loss: 0.0060, vertex loss: 0.0413, compute: 0.9258, data: 0.0267, lr: 0.000100
+INFO:METRO:eta: 15:41:20 epoch: 14 iter: 58000 max mem : 19505  loss: 11.1048, 2d joint loss: 0.0097, 3d joint loss: 0.0060, vertex loss: 0.0413, compute: 0.9258, data: 0.0267, lr: 0.000100
+2022-08-04 13:42:07,886 METRO INFO: eta: 15:25:35 epoch: 14 iter: 59000 max mem : 19505  loss: 11.0389, 2d joint loss: 0.0097, 3d joint loss: 0.0060, vertex loss: 0.0411, compute: 0.9254, data: 0.0263, lr: 0.000100
+INFO:METRO:eta: 15:25:35 epoch: 14 iter: 59000 max mem : 19505  loss: 11.0389, 2d joint loss: 0.0097, 3d joint loss: 0.0060, vertex loss: 0.0411, compute: 0.9254, data: 0.0263, lr: 0.000100
+2022-08-04 13:51:02,832 METRO INFO: Validation epoch: 15  mPVE:   0.00, mPJPE:  66.43, PAmPJPE:  43.24, Data Count:   0.00
+INFO:METRO:Validation epoch: 15  mPVE:   0.00, mPJPE:  66.43, PAmPJPE:  43.24, Data Count:   0.00
+2022-08-04 13:58:37,768 METRO INFO: eta: 15:11:13 epoch: 15 iter: 60000 max mem : 19505  loss: 10.9682, 2d joint loss: 0.0096, 3d joint loss: 0.0059, vertex loss: 0.0409, compute: 0.9265, data: 0.0273, lr: 0.000010
+INFO:METRO:eta: 15:11:13 epoch: 15 iter: 60000 max mem : 19505  loss: 10.9682, 2d joint loss: 0.0096, 3d joint loss: 0.0059, vertex loss: 0.0409, compute: 0.9265, data: 0.0273, lr: 0.000010
+2022-08-04 14:13:46,014 METRO INFO: eta: 14:55:29 epoch: 15 iter: 61000 max mem : 19505  loss: 10.8901, 2d joint loss: 0.0096, 3d joint loss: 0.0059, vertex loss: 0.0407, compute: 0.9262, data: 0.0270, lr: 0.000010
+INFO:METRO:eta: 14:55:29 epoch: 15 iter: 61000 max mem : 19505  loss: 10.8901, 2d joint loss: 0.0096, 3d joint loss: 0.0059, vertex loss: 0.0407, compute: 0.9262, data: 0.0270, lr: 0.000010
+2022-08-04 14:28:56,603 METRO INFO: eta: 14:39:48 epoch: 15 iter: 62000 max mem : 19505  loss: 10.8083, 2d joint loss: 0.0095, 3d joint loss: 0.0058, vertex loss: 0.0404, compute: 0.9260, data: 0.0267, lr: 0.000010
+INFO:METRO:eta: 14:39:48 epoch: 15 iter: 62000 max mem : 19505  loss: 10.8083, 2d joint loss: 0.0095, 3d joint loss: 0.0058, vertex loss: 0.0404, compute: 0.9260, data: 0.0267, lr: 0.000010
+2022-08-04 14:44:06,024 METRO INFO: eta: 14:24:07 epoch: 15 iter: 63000 max mem : 19505  loss: 10.7295, 2d joint loss: 0.0094, 3d joint loss: 0.0058, vertex loss: 0.0402, compute: 0.9257, data: 0.0264, lr: 0.000010
+INFO:METRO:eta: 14:24:07 epoch: 15 iter: 63000 max mem : 19505  loss: 10.7295, 2d joint loss: 0.0094, 3d joint loss: 0.0058, vertex loss: 0.0402, compute: 0.9257, data: 0.0264, lr: 0.000010
+2022-08-04 14:52:37,256 METRO INFO: Validation epoch: 16  mPVE:   0.00, mPJPE:  57.38, PAmPJPE:  39.25, Data Count:   0.00
+2022-08-04 14:52:37,261 METRO INFO: Failed to save checkpoint after 10 trails.
+INFO:METRO:Validation epoch: 16  mPVE:   0.00, mPJPE:  57.38, PAmPJPE:  39.25, Data Count:   0.00
+INFO:METRO:Failed to save checkpoint after 10 trails.
+2022-08-04 15:00:33,384 METRO INFO: eta: 14:09:35 epoch: 16 iter: 64000 max mem : 19505  loss: 10.6515, 2d joint loss: 0.0094, 3d joint loss: 0.0057, vertex loss: 0.0400, compute: 0.9267, data: 0.0274, lr: 0.000010
+INFO:METRO:eta: 14:09:35 epoch: 16 iter: 64000 max mem : 19505  loss: 10.6515, 2d joint loss: 0.0094, 3d joint loss: 0.0057, vertex loss: 0.0400, compute: 0.9267, data: 0.0274, lr: 0.000010
+INFO:METRO:eta: 13:53:53 epoch: 16 iter: 65000 max mem : 19505  loss: 10.5741, 2d joint loss: 0.0093, 3d joint loss: 0.0057, vertex loss: 0.0398, compute: 0.9264, data: 0.0271, lr: 0.000010
+2022-08-04 15:15:41,400 METRO INFO: eta: 13:53:53 epoch: 16 iter: 65000 max mem : 19505  loss: 10.5741, 2d joint loss: 0.0093, 3d joint loss: 0.0057, vertex loss: 0.0398, compute: 0.9264, data: 0.0271, lr: 0.000010
+INFO:METRO:eta: 13:38:11 epoch: 16 iter: 66000 max mem : 19505  loss: 10.5009, 2d joint loss: 0.0092, 3d joint loss: 0.0056, vertex loss: 0.0396, compute: 0.9261, data: 0.0268, lr: 0.000010
+2022-08-04 15:30:48,460 METRO INFO: eta: 13:38:11 epoch: 16 iter: 66000 max mem : 19505  loss: 10.5009, 2d joint loss: 0.0092, 3d joint loss: 0.0056, vertex loss: 0.0396, compute: 0.9261, data: 0.0268, lr: 0.000010
+INFO:METRO:eta: 13:22:31 epoch: 16 iter: 67000 max mem : 19505  loss: 10.4240, 2d joint loss: 0.0092, 3d joint loss: 0.0056, vertex loss: 0.0394, compute: 0.9258, data: 0.0265, lr: 0.000010
+2022-08-04 15:45:57,116 METRO INFO: eta: 13:22:31 epoch: 16 iter: 67000 max mem : 19505  loss: 10.4240, 2d joint loss: 0.0092, 3d joint loss: 0.0056, vertex loss: 0.0394, compute: 0.9258, data: 0.0265, lr: 0.000010
+INFO:METRO:Validation epoch: 17  mPVE:   0.00, mPJPE:  59.44, PAmPJPE:  39.78, Data Count:   0.00
+2022-08-04 15:54:00,657 METRO INFO: Validation epoch: 17  mPVE:   0.00, mPJPE:  59.44, PAmPJPE:  39.78, Data Count:   0.00
+INFO:METRO:eta: 13:07:54 epoch: 17 iter: 68000 max mem : 19505  loss: 10.3523, 2d joint loss: 0.0091, 3d joint loss: 0.0055, vertex loss: 0.0392, compute: 0.9268, data: 0.0274, lr: 0.000010
+2022-08-04 16:02:27,478 METRO INFO: eta: 13:07:54 epoch: 17 iter: 68000 max mem : 19505  loss: 10.3523, 2d joint loss: 0.0091, 3d joint loss: 0.0055, vertex loss: 0.0392, compute: 0.9268, data: 0.0274, lr: 0.000010
+INFO:METRO:eta: 12:52:14 epoch: 17 iter: 69000 max mem : 19505  loss: 10.2835, 2d joint loss: 0.0090, 3d joint loss: 0.0055, vertex loss: 0.0390, compute: 0.9265, data: 0.0272, lr: 0.000010
+2022-08-04 16:17:36,102 METRO INFO: eta: 12:52:14 epoch: 17 iter: 69000 max mem : 19505  loss: 10.2835, 2d joint loss: 0.0090, 3d joint loss: 0.0055, vertex loss: 0.0390, compute: 0.9265, data: 0.0272, lr: 0.000010
+INFO:METRO:eta: 12:36:34 epoch: 17 iter: 70000 max mem : 19505  loss: 10.2139, 2d joint loss: 0.0090, 3d joint loss: 0.0054, vertex loss: 0.0388, compute: 0.9262, data: 0.0269, lr: 0.000010
+2022-08-04 16:32:44,270 METRO INFO: eta: 12:36:34 epoch: 17 iter: 70000 max mem : 19505  loss: 10.2139, 2d joint loss: 0.0090, 3d joint loss: 0.0054, vertex loss: 0.0388, compute: 0.9262, data: 0.0269, lr: 0.000010
+INFO:METRO:eta: 12:20:56 epoch: 17 iter: 71000 max mem : 19505  loss: 10.1439, 2d joint loss: 0.0089, 3d joint loss: 0.0054, vertex loss: 0.0386, compute: 0.9260, data: 0.0266, lr: 0.000010
+2022-08-04 16:47:53,033 METRO INFO: eta: 12:20:56 epoch: 17 iter: 71000 max mem : 19505  loss: 10.1439, 2d joint loss: 0.0089, 3d joint loss: 0.0054, vertex loss: 0.0386, compute: 0.9260, data: 0.0266, lr: 0.000010
+INFO:METRO:Validation epoch: 18  mPVE:   0.00, mPJPE:  58.28, PAmPJPE:  39.20, Data Count:   0.00
+INFO:METRO:Failed to save checkpoint after 10 trails.
+2022-08-04 16:55:25,001 METRO INFO: Validation epoch: 18  mPVE:   0.00, mPJPE:  58.28, PAmPJPE:  39.20, Data Count:   0.00
+2022-08-04 16:55:25,008 METRO INFO: Failed to save checkpoint after 10 trails.
+INFO:METRO:eta: 12:06:14 epoch: 18 iter: 72000 max mem : 19505  loss: 10.0773, 2d joint loss: 0.0089, 3d joint loss: 0.0054, vertex loss: 0.0384, compute: 0.9269, data: 0.0275, lr: 0.000010
+2022-08-04 17:04:25,655 METRO INFO: eta: 12:06:14 epoch: 18 iter: 72000 max mem : 19505  loss: 10.0773, 2d joint loss: 0.0089, 3d joint loss: 0.0054, vertex loss: 0.0384, compute: 0.9269, data: 0.0275, lr: 0.000010
+INFO:METRO:eta: 11:50:36 epoch: 18 iter: 73000 max mem : 19505  loss: 10.0128, 2d joint loss: 0.0088, 3d joint loss: 0.0053, vertex loss: 0.0382, compute: 0.9267, data: 0.0272, lr: 0.000010
+2022-08-04 17:19:35,282 METRO INFO: eta: 11:50:36 epoch: 18 iter: 73000 max mem : 19505  loss: 10.0128, 2d joint loss: 0.0088, 3d joint loss: 0.0053, vertex loss: 0.0382, compute: 0.9267, data: 0.0272, lr: 0.000010
+INFO:METRO:eta: 11:34:57 epoch: 18 iter: 74000 max mem : 19505  loss: 9.9482, 2d joint loss: 0.0088, 3d joint loss: 0.0053, vertex loss: 0.0380, compute: 0.9264, data: 0.0269, lr: 0.000010
+2022-08-04 17:34:41,947 METRO INFO: eta: 11:34:57 epoch: 18 iter: 74000 max mem : 19505  loss: 9.9482, 2d joint loss: 0.0088, 3d joint loss: 0.0053, vertex loss: 0.0380, compute: 0.9264, data: 0.0269, lr: 0.000010
+INFO:METRO:eta: 11:19:21 epoch: 18 iter: 75000 max mem : 19505  loss: 9.8845, 2d joint loss: 0.0087, 3d joint loss: 0.0052, vertex loss: 0.0379, compute: 0.9262, data: 0.0267, lr: 0.000010
+2022-08-04 17:49:52,278 METRO INFO: eta: 11:19:21 epoch: 18 iter: 75000 max mem : 19505  loss: 9.8845, 2d joint loss: 0.0087, 3d joint loss: 0.0052, vertex loss: 0.0379, compute: 0.9262, data: 0.0267, lr: 0.000010
+INFO:METRO:Validation epoch: 19  mPVE:   0.00, mPJPE:  57.24, PAmPJPE:  38.94, Data Count:   0.00
+INFO:METRO:Failed to save checkpoint after 10 trails.
+2022-08-04 17:56:47,532 METRO INFO: Validation epoch: 19  mPVE:   0.00, mPJPE:  57.24, PAmPJPE:  38.94, Data Count:   0.00
+2022-08-04 17:56:47,537 METRO INFO: Failed to save checkpoint after 10 trails.
+INFO:METRO:eta: 11:04:28 epoch: 19 iter: 76000 max mem : 19505  loss: 9.8209, 2d joint loss: 0.0086, 3d joint loss: 0.0052, vertex loss: 0.0377, compute: 0.9270, data: 0.0274, lr: 0.000010
+2022-08-04 18:06:16,189 METRO INFO: eta: 11:04:28 epoch: 19 iter: 76000 max mem : 19505  loss: 9.8209, 2d joint loss: 0.0086, 3d joint loss: 0.0052, vertex loss: 0.0377, compute: 0.9270, data: 0.0274, lr: 0.000010
+INFO:METRO:eta: 10:48:50 epoch: 19 iter: 77000 max mem : 19505  loss: 9.7618, 2d joint loss: 0.0086, 3d joint loss: 0.0051, vertex loss: 0.0375, compute: 0.9267, data: 0.0272, lr: 0.000010
+2022-08-04 18:21:23,928 METRO INFO: eta: 10:48:50 epoch: 19 iter: 77000 max mem : 19505  loss: 9.7618, 2d joint loss: 0.0086, 3d joint loss: 0.0051, vertex loss: 0.0375, compute: 0.9267, data: 0.0272, lr: 0.000010
+INFO:METRO:eta: 10:33:14 epoch: 19 iter: 78000 max mem : 19505  loss: 9.7060, 2d joint loss: 0.0085, 3d joint loss: 0.0051, vertex loss: 0.0374, compute: 0.9265, data: 0.0269, lr: 0.000010
+2022-08-04 18:36:31,955 METRO INFO: eta: 10:33:14 epoch: 19 iter: 78000 max mem : 19505  loss: 9.7060, 2d joint loss: 0.0085, 3d joint loss: 0.0051, vertex loss: 0.0374, compute: 0.9265, data: 0.0269, lr: 0.000010
+2022-08-04 18:51:38,562 METRO INFO: eta: 10:17:37 epoch: 19 iter: 79000 max mem : 19505  loss: 9.6495, 2d joint loss: 0.0085, 3d joint loss: 0.0051, vertex loss: 0.0372, compute: 0.9262, data: 0.0267, lr: 0.000010
+INFO:METRO:eta: 10:17:37 epoch: 19 iter: 79000 max mem : 19505  loss: 9.6495, 2d joint loss: 0.0085, 3d joint loss: 0.0051, vertex loss: 0.0372, compute: 0.9262, data: 0.0267, lr: 0.000010
+INFO:METRO:Validation epoch: 20  mPVE:   0.00, mPJPE:  57.76, PAmPJPE:  39.52, Data Count:   0.00
+2022-08-04 18:58:07,473 METRO INFO: Validation epoch: 20  mPVE:   0.00, mPJPE:  57.76, PAmPJPE:  39.52, Data Count:   0.00
+2022-08-04 19:08:04,158 METRO INFO: eta: 10:02:40 epoch: 20 iter: 80000 max mem : 19505  loss: 9.5916, 2d joint loss: 0.0084, 3d joint loss: 0.0050, vertex loss: 0.0371, compute: 0.9270, data: 0.0274, lr: 0.000010
+INFO:METRO:eta: 10:02:40 epoch: 20 iter: 80000 max mem : 19505  loss: 9.5916, 2d joint loss: 0.0084, 3d joint loss: 0.0050, vertex loss: 0.0371, compute: 0.9270, data: 0.0274, lr: 0.000010
+INFO:METRO:eta: 9:47:03 epoch: 20 iter: 81000 max mem : 19505  loss: 9.5334, 2d joint loss: 0.0084, 3d joint loss: 0.0050, vertex loss: 0.0369, compute: 0.9267, data: 0.0272, lr: 0.000010
+2022-08-04 19:23:09,703 METRO INFO: eta: 9:47:03 epoch: 20 iter: 81000 max mem : 19505  loss: 9.5334, 2d joint loss: 0.0084, 3d joint loss: 0.0050, vertex loss: 0.0369, compute: 0.9267, data: 0.0272, lr: 0.000010
+INFO:METRO:eta: 9:31:28 epoch: 20 iter: 82000 max mem : 19505  loss: 9.4796, 2d joint loss: 0.0083, 3d joint loss: 0.0050, vertex loss: 0.0368, compute: 0.9265, data: 0.0270, lr: 0.000010
+2022-08-04 19:38:17,824 METRO INFO: eta: 9:31:28 epoch: 20 iter: 82000 max mem : 19505  loss: 9.4796, 2d joint loss: 0.0083, 3d joint loss: 0.0050, vertex loss: 0.0368, compute: 0.9265, data: 0.0270, lr: 0.000010
+INFO:METRO:eta: 9:15:53 epoch: 20 iter: 83000 max mem : 19505  loss: 9.4275, 2d joint loss: 0.0083, 3d joint loss: 0.0049, vertex loss: 0.0366, compute: 0.9262, data: 0.0267, lr: 0.000010
+2022-08-04 19:53:25,199 METRO INFO: eta: 9:15:53 epoch: 20 iter: 83000 max mem : 19505  loss: 9.4275, 2d joint loss: 0.0083, 3d joint loss: 0.0049, vertex loss: 0.0366, compute: 0.9262, data: 0.0267, lr: 0.000010
+INFO:METRO:Validation epoch: 21  mPVE:   0.00, mPJPE:  56.20, PAmPJPE:  38.69, Data Count:   0.00
+INFO:METRO:Failed to save checkpoint after 10 trails.
+2022-08-04 19:59:24,104 METRO INFO: Validation epoch: 21  mPVE:   0.00, mPJPE:  56.20, PAmPJPE:  38.69, Data Count:   0.00
+2022-08-04 19:59:24,107 METRO INFO: Failed to save checkpoint after 10 trails.
+2022-08-04 20:09:48,302 METRO INFO: eta: 9:00:51 epoch: 21 iter: 84000 max mem : 19505  loss: 9.3745, 2d joint loss: 0.0083, 3d joint loss: 0.0049, vertex loss: 0.0365, compute: 0.9269, data: 0.0275, lr: 0.000010
+INFO:METRO:eta: 9:00:51 epoch: 21 iter: 84000 max mem : 19505  loss: 9.3745, 2d joint loss: 0.0083, 3d joint loss: 0.0049, vertex loss: 0.0365, compute: 0.9269, data: 0.0275, lr: 0.000010
+INFO:METRO:eta: 8:45:16 epoch: 21 iter: 85000 max mem : 19505  loss: 9.3245, 2d joint loss: 0.0082, 3d joint loss: 0.0049, vertex loss: 0.0363, compute: 0.9267, data: 0.0272, lr: 0.000010
+2022-08-04 20:24:54,502 METRO INFO: eta: 8:45:16 epoch: 21 iter: 85000 max mem : 19505  loss: 9.3245, 2d joint loss: 0.0082, 3d joint loss: 0.0049, vertex loss: 0.0363, compute: 0.9267, data: 0.0272, lr: 0.000010
+INFO:METRO:eta: 8:29:40 epoch: 21 iter: 86000 max mem : 19505  loss: 9.2754, 2d joint loss: 0.0082, 3d joint loss: 0.0048, vertex loss: 0.0362, compute: 0.9264, data: 0.0270, lr: 0.000010
+2022-08-04 20:39:57,813 METRO INFO: eta: 8:29:40 epoch: 21 iter: 86000 max mem : 19505  loss: 9.2754, 2d joint loss: 0.0082, 3d joint loss: 0.0048, vertex loss: 0.0362, compute: 0.9264, data: 0.0270, lr: 0.000010
+INFO:METRO:eta: 8:14:07 epoch: 21 iter: 87000 max mem : 19505  loss: 9.2260, 2d joint loss: 0.0081, 3d joint loss: 0.0048, vertex loss: 0.0360, compute: 0.9262, data: 0.0268, lr: 0.000010
+2022-08-04 20:55:07,746 METRO INFO: eta: 8:14:07 epoch: 21 iter: 87000 max mem : 19505  loss: 9.2260, 2d joint loss: 0.0081, 3d joint loss: 0.0048, vertex loss: 0.0360, compute: 0.9262, data: 0.0268, lr: 0.000010
+INFO:METRO:Validation epoch: 22  mPVE:   0.00, mPJPE:  56.80, PAmPJPE:  39.27, Data Count:   0.00
+2022-08-04 21:00:40,651 METRO INFO: Validation epoch: 22  mPVE:   0.00, mPJPE:  56.80, PAmPJPE:  39.27, Data Count:   0.00
+INFO:METRO:eta: 7:59:05 epoch: 22 iter: 88000 max mem : 19505  loss: 9.1784, 2d joint loss: 0.0081, 3d joint loss: 0.0048, vertex loss: 0.0359, compute: 0.9270, data: 0.0275, lr: 0.000010
+2022-08-04 21:11:41,631 METRO INFO: eta: 7:59:05 epoch: 22 iter: 88000 max mem : 19505  loss: 9.1784, 2d joint loss: 0.0081, 3d joint loss: 0.0048, vertex loss: 0.0359, compute: 0.9270, data: 0.0275, lr: 0.000010
+INFO:METRO:eta: 7:43:33 epoch: 22 iter: 89000 max mem : 19505  loss: 9.1298, 2d joint loss: 0.0081, 3d joint loss: 0.0047, vertex loss: 0.0358, compute: 0.9268, data: 0.0272, lr: 0.000010
+2022-08-04 21:26:54,596 METRO INFO: eta: 7:43:33 epoch: 22 iter: 89000 max mem : 19505  loss: 9.1298, 2d joint loss: 0.0081, 3d joint loss: 0.0047, vertex loss: 0.0358, compute: 0.9268, data: 0.0272, lr: 0.000010
+INFO:METRO:eta: 7:28:01 epoch: 22 iter: 90000 max mem : 19505  loss: 9.0829, 2d joint loss: 0.0080, 3d joint loss: 0.0047, vertex loss: 0.0357, compute: 0.9266, data: 0.0270, lr: 0.000010
+2022-08-04 21:42:03,379 METRO INFO: eta: 7:28:01 epoch: 22 iter: 90000 max mem : 19505  loss: 9.0829, 2d joint loss: 0.0080, 3d joint loss: 0.0047, vertex loss: 0.0357, compute: 0.9266, data: 0.0270, lr: 0.000010
+2022-08-04 21:57:09,781 METRO INFO: eta: 7:12:28 epoch: 22 iter: 91000 max mem : 19505  loss: 9.0375, 2d joint loss: 0.0080, 3d joint loss: 0.0047, vertex loss: 0.0355, compute: 0.9264, data: 0.0268, lr: 0.000010
+INFO:METRO:eta: 7:12:28 epoch: 22 iter: 91000 max mem : 19505  loss: 9.0375, 2d joint loss: 0.0080, 3d joint loss: 0.0047, vertex loss: 0.0355, compute: 0.9264, data: 0.0268, lr: 0.000010
+2022-08-04 22:02:06,281 METRO INFO: Validation epoch: 23  mPVE:   0.00, mPJPE:  56.68, PAmPJPE:  39.29, Data Count:   0.00
+INFO:METRO:Validation epoch: 23  mPVE:   0.00, mPJPE:  56.68, PAmPJPE:  39.29, Data Count:   0.00
+INFO:METRO:eta: 6:57:19 epoch: 23 iter: 92000 max mem : 19505  loss: 8.9909, 2d joint loss: 0.0079, 3d joint loss: 0.0047, vertex loss: 0.0354, compute: 0.9270, data: 0.0274, lr: 0.000010
+2022-08-04 22:13:34,300 METRO INFO: eta: 6:57:19 epoch: 23 iter: 92000 max mem : 19505  loss: 8.9909, 2d joint loss: 0.0079, 3d joint loss: 0.0047, vertex loss: 0.0354, compute: 0.9270, data: 0.0274, lr: 0.000010
+INFO:METRO:eta: 6:41:46 epoch: 23 iter: 93000 max mem : 19505  loss: 8.9460, 2d joint loss: 0.0079, 3d joint loss: 0.0046, vertex loss: 0.0353, compute: 0.9268, data: 0.0272, lr: 0.000010
+2022-08-04 22:28:39,867 METRO INFO: eta: 6:41:46 epoch: 23 iter: 93000 max mem : 19505  loss: 8.9460, 2d joint loss: 0.0079, 3d joint loss: 0.0046, vertex loss: 0.0353, compute: 0.9268, data: 0.0272, lr: 0.000010
+INFO:METRO:eta: 6:26:14 epoch: 23 iter: 94000 max mem : 19505  loss: 8.9037, 2d joint loss: 0.0079, 3d joint loss: 0.0046, vertex loss: 0.0352, compute: 0.9266, data: 0.0270, lr: 0.000010
+2022-08-04 22:43:47,697 METRO INFO: eta: 6:26:14 epoch: 23 iter: 94000 max mem : 19505  loss: 8.9037, 2d joint loss: 0.0079, 3d joint loss: 0.0046, vertex loss: 0.0352, compute: 0.9266, data: 0.0270, lr: 0.000010
+INFO:METRO:eta: 6:10:42 epoch: 23 iter: 95000 max mem : 19505  loss: 8.8593, 2d joint loss: 0.0078, 3d joint loss: 0.0046, vertex loss: 0.0350, compute: 0.9264, data: 0.0268, lr: 0.000010
+2022-08-04 22:58:55,978 METRO INFO: eta: 6:10:42 epoch: 23 iter: 95000 max mem : 19505  loss: 8.8593, 2d joint loss: 0.0078, 3d joint loss: 0.0046, vertex loss: 0.0350, compute: 0.9264, data: 0.0268, lr: 0.000010
+INFO:METRO:Validation epoch: 24  mPVE:   0.00, mPJPE:  56.49, PAmPJPE:  38.95, Data Count:   0.00
+2022-08-04 23:03:25,052 METRO INFO: Validation epoch: 24  mPVE:   0.00, mPJPE:  56.49, PAmPJPE:  38.95, Data Count:   0.00
+INFO:METRO:eta: 5:55:31 epoch: 24 iter: 96000 max mem : 19505  loss: 8.8177, 2d joint loss: 0.0078, 3d joint loss: 0.0045, vertex loss: 0.0349, compute: 0.9271, data: 0.0274, lr: 0.000010
+2022-08-04 23:15:25,842 METRO INFO: eta: 5:55:31 epoch: 24 iter: 96000 max mem : 19505  loss: 8.8177, 2d joint loss: 0.0078, 3d joint loss: 0.0045, vertex loss: 0.0349, compute: 0.9271, data: 0.0274, lr: 0.000010
+2022-08-04 23:30:34,566 METRO INFO: eta: 5:40:00 epoch: 24 iter: 97000 max mem : 19505  loss: 8.7748, 2d joint loss: 0.0078, 3d joint loss: 0.0045, vertex loss: 0.0348, compute: 0.9269, data: 0.0272, lr: 0.000010
+INFO:METRO:eta: 5:40:00 epoch: 24 iter: 97000 max mem : 19505  loss: 8.7748, 2d joint loss: 0.0078, 3d joint loss: 0.0045, vertex loss: 0.0348, compute: 0.9269, data: 0.0272, lr: 0.000010
+INFO:METRO:eta: 5:24:28 epoch: 24 iter: 98000 max mem : 19505  loss: 8.7333, 2d joint loss: 0.0077, 3d joint loss: 0.0045, vertex loss: 0.0347, compute: 0.9266, data: 0.0270, lr: 0.000010
+2022-08-04 23:45:38,214 METRO INFO: eta: 5:24:28 epoch: 24 iter: 98000 max mem : 19505  loss: 8.7333, 2d joint loss: 0.0077, 3d joint loss: 0.0045, vertex loss: 0.0347, compute: 0.9266, data: 0.0270, lr: 0.000010
+INFO:METRO:eta: 5:08:58 epoch: 24 iter: 99000 max mem : 19505  loss: 8.6929, 2d joint loss: 0.0077, 3d joint loss: 0.0045, vertex loss: 0.0346, compute: 0.9264, data: 0.0268, lr: 0.000010
+2022-08-05 00:00:45,911 METRO INFO: eta: 5:08:58 epoch: 24 iter: 99000 max mem : 19505  loss: 8.6929, 2d joint loss: 0.0077, 3d joint loss: 0.0045, vertex loss: 0.0346, compute: 0.9264, data: 0.0268, lr: 0.000010
+INFO:METRO:Validation epoch: 25  mPVE:   0.00, mPJPE:  57.41, PAmPJPE:  39.03, Data Count:   0.00
+2022-08-05 00:04:44,613 METRO INFO: Validation epoch: 25  mPVE:   0.00, mPJPE:  57.41, PAmPJPE:  39.03, Data Count:   0.00
+2022-08-05 00:17:13,862 METRO INFO: eta: 4:53:43 epoch: 25 iter: 100000 max mem : 19505  loss: 8.6522, 2d joint loss: 0.0077, 3d joint loss: 0.0044, vertex loss: 0.0345, compute: 0.9271, data: 0.0274, lr: 0.000010
+INFO:METRO:eta: 4:53:43 epoch: 25 iter: 100000 max mem : 19505  loss: 8.6522, 2d joint loss: 0.0077, 3d joint loss: 0.0044, vertex loss: 0.0345, compute: 0.9271, data: 0.0274, lr: 0.000010
+INFO:METRO:eta: 4:38:12 epoch: 25 iter: 101000 max mem : 19505  loss: 8.6122, 2d joint loss: 0.0076, 3d joint loss: 0.0044, vertex loss: 0.0344, compute: 0.9269, data: 0.0272, lr: 0.000010
+2022-08-05 00:32:20,844 METRO INFO: eta: 4:38:12 epoch: 25 iter: 101000 max mem : 19505  loss: 8.6122, 2d joint loss: 0.0076, 3d joint loss: 0.0044, vertex loss: 0.0344, compute: 0.9269, data: 0.0272, lr: 0.000010
+2022-08-05 00:47:25,864 METRO INFO: eta: 4:22:42 epoch: 25 iter: 102000 max mem : 19505  loss: 8.5739, 2d joint loss: 0.0076, 3d joint loss: 0.0044, vertex loss: 0.0343, compute: 0.9266, data: 0.0270, lr: 0.000010
+INFO:METRO:eta: 4:22:42 epoch: 25 iter: 102000 max mem : 19505  loss: 8.5739, 2d joint loss: 0.0076, 3d joint loss: 0.0044, vertex loss: 0.0343, compute: 0.9266, data: 0.0270, lr: 0.000010
+2022-08-05 01:02:31,184 METRO INFO: eta: 4:07:12 epoch: 25 iter: 103000 max mem : 19505  loss: 8.5359, 2d joint loss: 0.0076, 3d joint loss: 0.0044, vertex loss: 0.0342, compute: 0.9264, data: 0.0268, lr: 0.000010
+INFO:METRO:eta: 4:07:12 epoch: 25 iter: 103000 max mem : 19505  loss: 8.5359, 2d joint loss: 0.0076, 3d joint loss: 0.0044, vertex loss: 0.0342, compute: 0.9264, data: 0.0268, lr: 0.000010
+INFO:METRO:Validation epoch: 26  mPVE:   0.00, mPJPE:  57.38, PAmPJPE:  38.92, Data Count:   0.00
+2022-08-05 01:06:03,775 METRO INFO: Validation epoch: 26  mPVE:   0.00, mPJPE:  57.38, PAmPJPE:  38.92, Data Count:   0.00
+INFO:METRO:eta: 3:51:54 epoch: 26 iter: 104000 max mem : 19505  loss: 8.4973, 2d joint loss: 0.0075, 3d joint loss: 0.0043, vertex loss: 0.0341, compute: 0.9270, data: 0.0274, lr: 0.000010
+2022-08-05 01:19:00,658 METRO INFO: eta: 3:51:54 epoch: 26 iter: 104000 max mem : 19505  loss: 8.4973, 2d joint loss: 0.0075, 3d joint loss: 0.0043, vertex loss: 0.0341, compute: 0.9270, data: 0.0274, lr: 0.000010
+INFO:METRO:eta: 3:36:25 epoch: 26 iter: 105000 max mem : 19505  loss: 8.4607, 2d joint loss: 0.0075, 3d joint loss: 0.0043, vertex loss: 0.0340, compute: 0.9269, data: 0.0273, lr: 0.000010
+2022-08-05 01:34:08,327 METRO INFO: eta: 3:36:25 epoch: 26 iter: 105000 max mem : 19505  loss: 8.4607, 2d joint loss: 0.0075, 3d joint loss: 0.0043, vertex loss: 0.0340, compute: 0.9269, data: 0.0273, lr: 0.000010
+2022-08-05 01:49:14,521 METRO INFO: eta: 3:20:55 epoch: 26 iter: 106000 max mem : 19505  loss: 8.4247, 2d joint loss: 0.0075, 3d joint loss: 0.0043, vertex loss: 0.0339, compute: 0.9267, data: 0.0271, lr: 0.000010
+INFO:METRO:eta: 3:20:55 epoch: 26 iter: 106000 max mem : 19505  loss: 8.4247, 2d joint loss: 0.0075, 3d joint loss: 0.0043, vertex loss: 0.0339, compute: 0.9267, data: 0.0271, lr: 0.000010
+INFO:METRO:eta: 3:05:27 epoch: 26 iter: 107000 max mem : 19505  loss: 8.3887, 2d joint loss: 0.0075, 3d joint loss: 0.0043, vertex loss: 0.0338, compute: 0.9265, data: 0.0269, lr: 0.000010
+2022-08-05 02:04:22,324 METRO INFO: eta: 3:05:27 epoch: 26 iter: 107000 max mem : 19505  loss: 8.3887, 2d joint loss: 0.0075, 3d joint loss: 0.0043, vertex loss: 0.0338, compute: 0.9265, data: 0.0269, lr: 0.000010
+INFO:METRO:Validation epoch: 27  mPVE:   0.00, mPJPE:  58.01, PAmPJPE:  39.57, Data Count:   0.00
+2022-08-05 02:07:25,496 METRO INFO: Validation epoch: 27  mPVE:   0.00, mPJPE:  58.01, PAmPJPE:  39.57, Data Count:   0.00
+2022-08-05 02:20:54,499 METRO INFO: eta: 2:50:07 epoch: 27 iter: 108000 max mem : 19505  loss: 8.3539, 2d joint loss: 0.0074, 3d joint loss: 0.0042, vertex loss: 0.0337, compute: 0.9271, data: 0.0275, lr: 0.000010
+INFO:METRO:eta: 2:50:07 epoch: 27 iter: 108000 max mem : 19505  loss: 8.3539, 2d joint loss: 0.0074, 3d joint loss: 0.0042, vertex loss: 0.0337, compute: 0.9271, data: 0.0275, lr: 0.000010
+2022-08-05 02:36:05,457 METRO INFO: eta: 2:34:38 epoch: 27 iter: 109000 max mem : 19505  loss: 8.3191, 2d joint loss: 0.0074, 3d joint loss: 0.0042, vertex loss: 0.0336, compute: 0.9270, data: 0.0273, lr: 0.000010
+INFO:METRO:eta: 2:34:38 epoch: 27 iter: 109000 max mem : 19505  loss: 8.3191, 2d joint loss: 0.0074, 3d joint loss: 0.0042, vertex loss: 0.0336, compute: 0.9270, data: 0.0273, lr: 0.000010
+INFO:METRO:eta: 2:19:10 epoch: 27 iter: 110000 max mem : 19505  loss: 8.2853, 2d joint loss: 0.0074, 3d joint loss: 0.0042, vertex loss: 0.0335, compute: 0.9268, data: 0.0271, lr: 0.000010
+2022-08-05 02:51:13,678 METRO INFO: eta: 2:19:10 epoch: 27 iter: 110000 max mem : 19505  loss: 8.2853, 2d joint loss: 0.0074, 3d joint loss: 0.0042, vertex loss: 0.0335, compute: 0.9268, data: 0.0271, lr: 0.000010
+INFO:METRO:eta: 2:03:42 epoch: 27 iter: 111000 max mem : 19505  loss: 8.2515, 2d joint loss: 0.0073, 3d joint loss: 0.0042, vertex loss: 0.0334, compute: 0.9266, data: 0.0269, lr: 0.000010
+2022-08-05 03:06:24,449 METRO INFO: eta: 2:03:42 epoch: 27 iter: 111000 max mem : 19505  loss: 8.2515, 2d joint loss: 0.0073, 3d joint loss: 0.0042, vertex loss: 0.0334, compute: 0.9266, data: 0.0269, lr: 0.000010
+2022-08-05 03:08:53,755 METRO INFO: Validation epoch: 28  mPVE:   0.00, mPJPE:  57.23, PAmPJPE:  38.82, Data Count:   0.00
+INFO:METRO:Validation epoch: 28  mPVE:   0.00, mPJPE:  57.23, PAmPJPE:  38.82, Data Count:   0.00
+2022-08-05 03:22:53,085 METRO INFO: eta: 1:48:19 epoch: 28 iter: 112000 max mem : 19505  loss: 8.2186, 2d joint loss: 0.0073, 3d joint loss: 0.0042, vertex loss: 0.0333, compute: 0.9272, data: 0.0275, lr: 0.000010
+INFO:METRO:eta: 1:48:19 epoch: 28 iter: 112000 max mem : 19505  loss: 8.2186, 2d joint loss: 0.0073, 3d joint loss: 0.0042, vertex loss: 0.0333, compute: 0.9272, data: 0.0275, lr: 0.000010
+2022-08-05 03:38:04,137 METRO INFO: eta: 1:32:51 epoch: 28 iter: 113000 max mem : 19505  loss: 8.1883, 2d joint loss: 0.0073, 3d joint loss: 0.0041, vertex loss: 0.0332, compute: 0.9270, data: 0.0273, lr: 0.000010
+INFO:METRO:eta: 1:32:51 epoch: 28 iter: 113000 max mem : 19505  loss: 8.1883, 2d joint loss: 0.0073, 3d joint loss: 0.0041, vertex loss: 0.0332, compute: 0.9270, data: 0.0273, lr: 0.000010
+INFO:METRO:eta: 1:17:23 epoch: 28 iter: 114000 max mem : 19505  loss: 8.1566, 2d joint loss: 0.0073, 3d joint loss: 0.0041, vertex loss: 0.0331, compute: 0.9269, data: 0.0271, lr: 0.000010
+2022-08-05 03:53:13,555 METRO INFO: eta: 1:17:23 epoch: 28 iter: 114000 max mem : 19505  loss: 8.1566, 2d joint loss: 0.0073, 3d joint loss: 0.0041, vertex loss: 0.0331, compute: 0.9269, data: 0.0271, lr: 0.000010
+2022-08-05 04:08:21,771 METRO INFO: eta: 1:01:56 epoch: 28 iter: 115000 max mem : 19505  loss: 8.1249, 2d joint loss: 0.0072, 3d joint loss: 0.0041, vertex loss: 0.0330, compute: 0.9267, data: 0.0269, lr: 0.000010
+INFO:METRO:eta: 1:01:56 epoch: 28 iter: 115000 max mem : 19505  loss: 8.1249, 2d joint loss: 0.0072, 3d joint loss: 0.0041, vertex loss: 0.0330, compute: 0.9267, data: 0.0269, lr: 0.000010
+2022-08-05 04:10:20,099 METRO INFO: Validation epoch: 29  mPVE:   0.00, mPJPE:  58.16, PAmPJPE:  38.98, Data Count:   0.00
+INFO:METRO:Validation epoch: 29  mPVE:   0.00, mPJPE:  58.16, PAmPJPE:  38.98, Data Count:   0.00
+INFO:METRO:eta: 0:46:31 epoch: 29 iter: 116000 max mem : 19505  loss: 8.0942, 2d joint loss: 0.0072, 3d joint loss: 0.0041, vertex loss: 0.0329, compute: 0.9272, data: 0.0274, lr: 0.000010
+2022-08-05 04:24:48,123 METRO INFO: eta: 0:46:31 epoch: 29 iter: 116000 max mem : 19505  loss: 8.0942, 2d joint loss: 0.0072, 3d joint loss: 0.0041, vertex loss: 0.0329, compute: 0.9272, data: 0.0274, lr: 0.000010
+INFO:METRO:eta: 0:31:03 epoch: 29 iter: 117000 max mem : 19505  loss: 8.0633, 2d joint loss: 0.0072, 3d joint loss: 0.0041, vertex loss: 0.0329, compute: 0.9271, data: 0.0273, lr: 0.000010
+2022-08-05 04:39:57,158 METRO INFO: eta: 0:31:03 epoch: 29 iter: 117000 max mem : 19505  loss: 8.0633, 2d joint loss: 0.0072, 3d joint loss: 0.0041, vertex loss: 0.0329, compute: 0.9271, data: 0.0273, lr: 0.000010
+2022-08-05 04:55:07,910 METRO INFO: eta: 0:15:36 epoch: 29 iter: 118000 max mem : 19505  loss: 8.0332, 2d joint loss: 0.0072, 3d joint loss: 0.0040, vertex loss: 0.0328, compute: 0.9270, data: 0.0271, lr: 0.000010
+INFO:METRO:eta: 0:15:36 epoch: 29 iter: 118000 max mem : 19505  loss: 8.0332, 2d joint loss: 0.0072, 3d joint loss: 0.0040, vertex loss: 0.0328, compute: 0.9270, data: 0.0271, lr: 0.000010
+2022-08-05 05:10:18,197 METRO INFO: eta: 0:00:09 epoch: 29 iter: 119000 max mem : 19505  loss: 8.0037, 2d joint loss: 0.0071, 3d joint loss: 0.0040, vertex loss: 0.0327, compute: 0.9268, data: 0.0269, lr: 0.000010
+INFO:METRO:eta: 0:00:09 epoch: 29 iter: 119000 max mem : 19505  loss: 8.0037, 2d joint loss: 0.0071, 3d joint loss: 0.0040, vertex loss: 0.0327, compute: 0.9268, data: 0.0269, lr: 0.000010
+2022-08-05 05:10:28,536 METRO INFO: eta: 0:00:00 epoch: 30 iter: 119010 max mem : 19505  loss: 8.0034, 2d joint loss: 0.0071, 3d joint loss: 0.0040, vertex loss: 0.0327, compute: 0.9268, data: 0.0270, lr: 0.000001
+INFO:METRO:eta: 0:00:00 epoch: 30 iter: 119010 max mem : 19505  loss: 8.0034, 2d joint loss: 0.0071, 3d joint loss: 0.0040, vertex loss: 0.0327, compute: 0.9268, data: 0.0270, lr: 0.000001
+2022-08-05 05:11:52,478 METRO INFO: Validation epoch: 30  mPVE:   0.00, mPJPE:  58.87, PAmPJPE:  39.87, Data Count:   0.00
+2022-08-05 05:11:53,023 METRO INFO: Total training time: 1 day, 6:39:45.872318 (0.9275 s / iter)
+2022-08-05 05:11:53,025 METRO INFO: Failed to save checkpoint after 10 trails.
+2022-08-05 05:11:53,025 METRO INFO:  Best Results:  mPVE:   0.00, mPJPE:  56.20, PAmPJPE:  38.69, at epoch  21.00
+INFO:METRO:Validation epoch: 30  mPVE:   0.00, mPJPE:  58.87, PAmPJPE:  39.87, Data Count:   0.00
+INFO:METRO:Total training time: 1 day, 6:39:45.872318 (0.9275 s / iter)
+INFO:METRO:Failed to save checkpoint after 10 trails.
+INFO:METRO: Best Results:  mPVE:   0.00, mPJPE:  56.20, PAmPJPE:  38.69, at epoch  21.00

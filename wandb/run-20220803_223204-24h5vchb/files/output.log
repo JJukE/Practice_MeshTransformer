@@ -1,0 +1,154 @@
+
+INFO:METRO:Local rank: 4 Max iteration: 119010 iters_per_epoch: 3967 num_train_epochs: 30
+INFO:METRO:eta: 1 day, 5:40:01 epoch: 0 iter: 1000 max mem : 19505  loss: 52.8455, 2d joint loss: 0.0532, 3d joint loss: 0.0314, vertex loss: 0.1609, compute: 0.9050, data: 0.0090, lr: 0.000100
+INFO:METRO:eta: 1 day, 5:20:32 epoch: 0 iter: 2000 max mem : 19505  loss: 40.1683, 2d joint loss: 0.0386, 3d joint loss: 0.0234, vertex loss: 0.1289, compute: 0.9028, data: 0.0081, lr: 0.000100
+INFO:METRO:eta: 1 day, 5:05:40 epoch: 0 iter: 3000 max mem : 19505  loss: 34.2527, 2d joint loss: 0.0320, 3d joint loss: 0.0199, vertex loss: 0.1117, compute: 0.9029, data: 0.0078, lr: 0.000100
+INFO:METRO:Validation epoch: 1  mPVE:   0.00, mPJPE:  77.09, PAmPJPE:  57.65, Data Count:   0.00
+INFO:METRO:eta: 1 day, 5:28:38 epoch: 1 iter: 4000 max mem : 19505  loss: 30.5770, 2d joint loss: 0.0283, 3d joint loss: 0.0177, vertex loss: 0.1005, compute: 0.9227, data: 0.0287, lr: 0.000100
+INFO:METRO:eta: 1 day, 5:05:03 epoch: 1 iter: 5000 max mem : 19505  loss: 27.9389, 2d joint loss: 0.0257, 3d joint loss: 0.0161, vertex loss: 0.0924, compute: 0.9184, data: 0.0244, lr: 0.000100
+INFO:METRO:eta: 1 day, 4:45:21 epoch: 1 iter: 6000 max mem : 19505  loss: 25.9580, 2d joint loss: 0.0237, 3d joint loss: 0.0150, vertex loss: 0.0863, compute: 0.9160, data: 0.0215, lr: 0.000100
+INFO:METRO:eta: 1 day, 4:26:41 epoch: 1 iter: 7000 max mem : 19505  loss: 24.4073, 2d joint loss: 0.0222, 3d joint loss: 0.0140, vertex loss: 0.0815, compute: 0.9142, data: 0.0194, lr: 0.000100
+INFO:METRO:Validation epoch: 2  mPVE:   0.00, mPJPE:  81.28, PAmPJPE:  55.15, Data Count:   0.00
+INFO:METRO:eta: 1 day, 4:27:58 epoch: 2 iter: 8000 max mem : 19505  loss: 23.2388, 2d joint loss: 0.0210, 3d joint loss: 0.0134, vertex loss: 0.0778, compute: 0.9232, data: 0.0279, lr: 0.000100
+INFO:METRO:eta: 1 day, 4:09:22 epoch: 2 iter: 9000 max mem : 19505  loss: 22.1630, 2d joint loss: 0.0200, 3d joint loss: 0.0127, vertex loss: 0.0745, compute: 0.9214, data: 0.0256, lr: 0.000100
+INFO:METRO:eta: 1 day, 3:51:10 epoch: 2 iter: 10000 max mem : 19505  loss: 21.3396, 2d joint loss: 0.0192, 3d joint loss: 0.0122, vertex loss: 0.0718, compute: 0.9198, data: 0.0237, lr: 0.000100
+INFO:METRO:eta: 1 day, 3:33:22 epoch: 2 iter: 11000 max mem : 19505  loss: 20.5951, 2d joint loss: 0.0185, 3d joint loss: 0.0118, vertex loss: 0.0695, compute: 0.9185, data: 0.0222, lr: 0.000100
+INFO:METRO:Validation epoch: 3  mPVE:   0.00, mPJPE:  68.63, PAmPJPE:  50.15, Data Count:   0.00
+INFO:METRO:eta: 1 day, 3:27:35 epoch: 3 iter: 12000 max mem : 19505  loss: 19.9172, 2d joint loss: 0.0178, 3d joint loss: 0.0114, vertex loss: 0.0674, compute: 0.9238, data: 0.0274, lr: 0.000100
+INFO:METRO:eta: 1 day, 3:09:39 epoch: 3 iter: 13000 max mem : 19505  loss: 19.2823, 2d joint loss: 0.0173, 3d joint loss: 0.0110, vertex loss: 0.0655, compute: 0.9224, data: 0.0258, lr: 0.000100
+INFO:METRO:eta: 1 day, 2:52:12 epoch: 3 iter: 14000 max mem : 19505  loss: 18.7630, 2d joint loss: 0.0167, 3d joint loss: 0.0107, vertex loss: 0.0639, compute: 0.9212, data: 0.0245, lr: 0.000100
+INFO:METRO:eta: 1 day, 2:34:47 epoch: 3 iter: 15000 max mem : 19505  loss: 18.2921, 2d joint loss: 0.0163, 3d joint loss: 0.0104, vertex loss: 0.0624, compute: 0.9200, data: 0.0233, lr: 0.000100
+INFO:METRO:Validation epoch: 4  mPVE:   0.00, mPJPE:  64.32, PAmPJPE:  46.82, Data Count:   0.00
+INFO:METRO:eta: 1 day, 2:26:25 epoch: 4 iter: 16000 max mem : 19505  loss: 17.8692, 2d joint loss: 0.0159, 3d joint loss: 0.0102, vertex loss: 0.0611, compute: 0.9240, data: 0.0272, lr: 0.000100
+INFO:METRO:eta: 1 day, 2:09:18 epoch: 4 iter: 17000 max mem : 19505  loss: 17.4863, 2d joint loss: 0.0156, 3d joint loss: 0.0099, vertex loss: 0.0599, compute: 0.9230, data: 0.0260, lr: 0.000100
+INFO:METRO:eta: 1 day, 1:52:23 epoch: 4 iter: 18000 max mem : 19505  loss: 17.1318, 2d joint loss: 0.0152, 3d joint loss: 0.0097, vertex loss: 0.0588, compute: 0.9221, data: 0.0249, lr: 0.000100
+INFO:METRO:eta: 1 day, 1:35:34 epoch: 4 iter: 19000 max mem : 19505  loss: 16.7880, 2d joint loss: 0.0149, 3d joint loss: 0.0095, vertex loss: 0.0578, compute: 0.9213, data: 0.0240, lr: 0.000100
+INFO:METRO:Validation epoch: 5  mPVE:   0.00, mPJPE:  65.03, PAmPJPE:  50.03, Data Count:   0.00
+INFO:METRO:eta: 1 day, 1:25:34 epoch: 5 iter: 20000 max mem : 19505  loss: 16.4524, 2d joint loss: 0.0146, 3d joint loss: 0.0093, vertex loss: 0.0568, compute: 0.9245, data: 0.0270, lr: 0.000100
+INFO:METRO:eta: 1 day, 1:08:57 epoch: 5 iter: 21000 max mem : 19505  loss: 16.1529, 2d joint loss: 0.0143, 3d joint loss: 0.0091, vertex loss: 0.0559, compute: 0.9238, data: 0.0261, lr: 0.000100
+INFO:METRO:eta: 1 day, 0:52:20 epoch: 5 iter: 22000 max mem : 19505  loss: 15.8791, 2d joint loss: 0.0141, 3d joint loss: 0.0090, vertex loss: 0.0551, compute: 0.9230, data: 0.0252, lr: 0.000100
+INFO:METRO:eta: 1 day, 0:35:48 epoch: 5 iter: 23000 max mem : 19505  loss: 15.6178, 2d joint loss: 0.0138, 3d joint loss: 0.0088, vertex loss: 0.0543, compute: 0.9223, data: 0.0244, lr: 0.000100
+INFO:METRO:Validation epoch: 6  mPVE:   0.00, mPJPE:  64.69, PAmPJPE:  46.53, Data Count:   0.00
+INFO:METRO:eta: 1 day, 0:24:39 epoch: 6 iter: 24000 max mem : 19505  loss: 15.3675, 2d joint loss: 0.0136, 3d joint loss: 0.0086, vertex loss: 0.0536, compute: 0.9250, data: 0.0272, lr: 0.000100
+INFO:METRO:eta: 1 day, 0:07:56 epoch: 6 iter: 25000 max mem : 19505  loss: 15.1387, 2d joint loss: 0.0134, 3d joint loss: 0.0085, vertex loss: 0.0529, compute: 0.9241, data: 0.0264, lr: 0.000100
+INFO:METRO:eta: 23:51:21 epoch: 6 iter: 26000 max mem : 19505  loss: 14.9145, 2d joint loss: 0.0132, 3d joint loss: 0.0084, vertex loss: 0.0523, compute: 0.9234, data: 0.0257, lr: 0.000100
+INFO:METRO:eta: 23:34:58 epoch: 6 iter: 27000 max mem : 19505  loss: 14.7091, 2d joint loss: 0.0130, 3d joint loss: 0.0082, vertex loss: 0.0517, compute: 0.9227, data: 0.0250, lr: 0.000100
+INFO:METRO:Validation epoch: 7  mPVE:   0.00, mPJPE:  60.20, PAmPJPE:  44.05, Data Count:   0.00
+INFO:METRO:eta: 23:23:08 epoch: 7 iter: 28000 max mem : 19505  loss: 14.5155, 2d joint loss: 0.0128, 3d joint loss: 0.0081, vertex loss: 0.0511, compute: 0.9251, data: 0.0273, lr: 0.000100
+INFO:METRO:eta: 23:06:47 epoch: 7 iter: 29000 max mem : 19505  loss: 14.3232, 2d joint loss: 0.0126, 3d joint loss: 0.0080, vertex loss: 0.0506, compute: 0.9244, data: 0.0266, lr: 0.000100
+INFO:METRO:eta: 22:50:28 epoch: 7 iter: 30000 max mem : 19505  loss: 14.1475, 2d joint loss: 0.0125, 3d joint loss: 0.0079, vertex loss: 0.0500, compute: 0.9238, data: 0.0260, lr: 0.000100
+INFO:METRO:eta: 22:34:14 epoch: 7 iter: 31000 max mem : 19505  loss: 13.9722, 2d joint loss: 0.0123, 3d joint loss: 0.0078, vertex loss: 0.0495, compute: 0.9232, data: 0.0253, lr: 0.000100
+INFO:METRO:Validation epoch: 8  mPVE:   0.00, mPJPE:  66.04, PAmPJPE:  44.35, Data Count:   0.00
+INFO:METRO:eta: 22:21:43 epoch: 8 iter: 32000 max mem : 19505  loss: 13.8069, 2d joint loss: 0.0122, 3d joint loss: 0.0077, vertex loss: 0.0491, compute: 0.9252, data: 0.0273, lr: 0.000100
+INFO:METRO:eta: 22:05:26 epoch: 8 iter: 33000 max mem : 19505  loss: 13.6436, 2d joint loss: 0.0120, 3d joint loss: 0.0076, vertex loss: 0.0486, compute: 0.9246, data: 0.0266, lr: 0.000100
+INFO:METRO:eta: 21:49:20 epoch: 8 iter: 34000 max mem : 19505  loss: 13.4995, 2d joint loss: 0.0119, 3d joint loss: 0.0075, vertex loss: 0.0482, compute: 0.9241, data: 0.0261, lr: 0.000100
+INFO:METRO:eta: 21:33:11 epoch: 8 iter: 35000 max mem : 19505  loss: 13.3494, 2d joint loss: 0.0117, 3d joint loss: 0.0074, vertex loss: 0.0477, compute: 0.9236, data: 0.0255, lr: 0.000100
+INFO:METRO:Validation epoch: 9  mPVE:   0.00, mPJPE:  59.21, PAmPJPE:  42.71, Data Count:   0.00
+INFO:METRO:eta: 21:20:21 epoch: 9 iter: 36000 max mem : 19505  loss: 13.2125, 2d joint loss: 0.0116, 3d joint loss: 0.0073, vertex loss: 0.0474, compute: 0.9255, data: 0.0272, lr: 0.000100
+INFO:METRO:eta: 21:04:05 epoch: 9 iter: 37000 max mem : 19505  loss: 13.0784, 2d joint loss: 0.0115, 3d joint loss: 0.0072, vertex loss: 0.0470, compute: 0.9248, data: 0.0267, lr: 0.000100
+INFO:METRO:eta: 20:48:03 epoch: 9 iter: 38000 max mem : 19505  loss: 12.9588, 2d joint loss: 0.0114, 3d joint loss: 0.0072, vertex loss: 0.0466, compute: 0.9244, data: 0.0261, lr: 0.000100
+INFO:METRO:eta: 20:32:05 epoch: 9 iter: 39000 max mem : 19505  loss: 12.8391, 2d joint loss: 0.0113, 3d joint loss: 0.0071, vertex loss: 0.0463, compute: 0.9240, data: 0.0257, lr: 0.000100
+INFO:METRO:Validation epoch: 10  mPVE:   0.00, mPJPE:  60.48, PAmPJPE:  42.72, Data Count:   0.00
+INFO:METRO:eta: 20:18:47 epoch: 10 iter: 40000 max mem : 19505  loss: 12.7191, 2d joint loss: 0.0112, 3d joint loss: 0.0070, vertex loss: 0.0459, compute: 0.9255, data: 0.0272, lr: 0.000100
+INFO:METRO:eta: 20:02:46 epoch: 10 iter: 41000 max mem : 19505  loss: 12.6070, 2d joint loss: 0.0111, 3d joint loss: 0.0069, vertex loss: 0.0456, compute: 0.9251, data: 0.0267, lr: 0.000100
+INFO:METRO:eta: 19:46:48 epoch: 10 iter: 42000 max mem : 19505  loss: 12.4961, 2d joint loss: 0.0110, 3d joint loss: 0.0069, vertex loss: 0.0453, compute: 0.9247, data: 0.0262, lr: 0.000100
+INFO:METRO:eta: 19:30:52 epoch: 10 iter: 43000 max mem : 19505  loss: 12.3904, 2d joint loss: 0.0109, 3d joint loss: 0.0068, vertex loss: 0.0450, compute: 0.9243, data: 0.0258, lr: 0.000100
+INFO:METRO:Validation epoch: 11  mPVE:   0.00, mPJPE:  60.20, PAmPJPE:  43.31, Data Count:   0.00
+INFO:METRO:eta: 19:17:09 epoch: 11 iter: 44000 max mem : 19505  loss: 12.2842, 2d joint loss: 0.0108, 3d joint loss: 0.0067, vertex loss: 0.0447, compute: 0.9256, data: 0.0273, lr: 0.000100
+INFO:METRO:eta: 19:01:20 epoch: 11 iter: 45000 max mem : 19505  loss: 12.1784, 2d joint loss: 0.0107, 3d joint loss: 0.0067, vertex loss: 0.0444, compute: 0.9253, data: 0.0268, lr: 0.000100
+INFO:METRO:eta: 18:45:31 epoch: 11 iter: 46000 max mem : 19505  loss: 12.0856, 2d joint loss: 0.0106, 3d joint loss: 0.0066, vertex loss: 0.0441, compute: 0.9250, data: 0.0264, lr: 0.000100
+INFO:METRO:eta: 18:29:39 epoch: 11 iter: 47000 max mem : 19505  loss: 11.9851, 2d joint loss: 0.0105, 3d joint loss: 0.0065, vertex loss: 0.0438, compute: 0.9246, data: 0.0260, lr: 0.000100
+INFO:METRO:Validation epoch: 12  mPVE:   0.00, mPJPE:  59.76, PAmPJPE:  42.98, Data Count:   0.00
+INFO:METRO:eta: 18:15:47 epoch: 12 iter: 48000 max mem : 19505  loss: 11.8966, 2d joint loss: 0.0105, 3d joint loss: 0.0065, vertex loss: 0.0436, compute: 0.9259, data: 0.0272, lr: 0.000100
+INFO:METRO:eta: 17:59:54 epoch: 12 iter: 49000 max mem : 19505  loss: 11.8046, 2d joint loss: 0.0104, 3d joint loss: 0.0064, vertex loss: 0.0433, compute: 0.9255, data: 0.0268, lr: 0.000100
+INFO:METRO:eta: 17:44:06 epoch: 12 iter: 50000 max mem : 19505  loss: 11.7187, 2d joint loss: 0.0103, 3d joint loss: 0.0064, vertex loss: 0.0431, compute: 0.9252, data: 0.0264, lr: 0.000100
+INFO:METRO:eta: 17:28:21 epoch: 12 iter: 51000 max mem : 19505  loss: 11.6353, 2d joint loss: 0.0102, 3d joint loss: 0.0063, vertex loss: 0.0428, compute: 0.9249, data: 0.0260, lr: 0.000100
+INFO:METRO:Validation epoch: 13  mPVE:   0.00, mPJPE:  62.76, PAmPJPE:  43.78, Data Count:   0.00
+INFO:METRO:eta: 17:14:15 epoch: 13 iter: 52000 max mem : 19505  loss: 11.5534, 2d joint loss: 0.0102, 3d joint loss: 0.0063, vertex loss: 0.0426, compute: 0.9261, data: 0.0272, lr: 0.000100
+INFO:METRO:eta: 16:58:29 epoch: 13 iter: 53000 max mem : 19505  loss: 11.4695, 2d joint loss: 0.0101, 3d joint loss: 0.0062, vertex loss: 0.0424, compute: 0.9258, data: 0.0268, lr: 0.000100
+INFO:METRO:eta: 16:42:44 epoch: 13 iter: 54000 max mem : 19505  loss: 11.3904, 2d joint loss: 0.0100, 3d joint loss: 0.0062, vertex loss: 0.0421, compute: 0.9255, data: 0.0264, lr: 0.000100
+INFO:METRO:eta: 16:27:03 epoch: 13 iter: 55000 max mem : 19505  loss: 11.3193, 2d joint loss: 0.0100, 3d joint loss: 0.0061, vertex loss: 0.0419, compute: 0.9252, data: 0.0261, lr: 0.000100
+INFO:METRO:Validation epoch: 14  mPVE:   0.00, mPJPE:  59.66, PAmPJPE:  42.43, Data Count:   0.00
+INFO:METRO:eta: 16:12:52 epoch: 14 iter: 56000 max mem : 19505  loss: 11.2418, 2d joint loss: 0.0099, 3d joint loss: 0.0061, vertex loss: 0.0417, compute: 0.9264, data: 0.0271, lr: 0.000100
+INFO:METRO:eta: 15:57:05 epoch: 14 iter: 57000 max mem : 19505  loss: 11.1725, 2d joint loss: 0.0098, 3d joint loss: 0.0060, vertex loss: 0.0415, compute: 0.9261, data: 0.0268, lr: 0.000100
+INFO:METRO:eta: 15:41:20 epoch: 14 iter: 58000 max mem : 19505  loss: 11.0984, 2d joint loss: 0.0098, 3d joint loss: 0.0060, vertex loss: 0.0413, compute: 0.9258, data: 0.0264, lr: 0.000100
+INFO:METRO:eta: 15:25:35 epoch: 14 iter: 59000 max mem : 19505  loss: 11.0318, 2d joint loss: 0.0097, 3d joint loss: 0.0059, vertex loss: 0.0411, compute: 0.9254, data: 0.0261, lr: 0.000100
+INFO:METRO:Validation epoch: 15  mPVE:   0.00, mPJPE:  66.43, PAmPJPE:  43.24, Data Count:   0.00
+INFO:METRO:eta: 15:11:13 epoch: 15 iter: 60000 max mem : 19505  loss: 10.9594, 2d joint loss: 0.0096, 3d joint loss: 0.0059, vertex loss: 0.0409, compute: 0.9265, data: 0.0271, lr: 0.000010
+INFO:METRO:eta: 14:55:29 epoch: 15 iter: 61000 max mem : 19505  loss: 10.8796, 2d joint loss: 0.0096, 3d joint loss: 0.0059, vertex loss: 0.0407, compute: 0.9262, data: 0.0268, lr: 0.000010
+INFO:METRO:eta: 14:39:48 epoch: 15 iter: 62000 max mem : 19505  loss: 10.7970, 2d joint loss: 0.0095, 3d joint loss: 0.0058, vertex loss: 0.0405, compute: 0.9260, data: 0.0264, lr: 0.000010
+INFO:METRO:eta: 14:24:08 epoch: 15 iter: 63000 max mem : 19505  loss: 10.7159, 2d joint loss: 0.0094, 3d joint loss: 0.0057, vertex loss: 0.0402, compute: 0.9257, data: 0.0261, lr: 0.000010
+INFO:METRO:Validation epoch: 16  mPVE:   0.00, mPJPE:  57.38, PAmPJPE:  39.25, Data Count:   0.00
+INFO:METRO:eta: 14:09:35 epoch: 16 iter: 64000 max mem : 19505  loss: 10.6363, 2d joint loss: 0.0094, 3d joint loss: 0.0057, vertex loss: 0.0400, compute: 0.9267, data: 0.0272, lr: 0.000010
+INFO:METRO:eta: 13:53:53 epoch: 16 iter: 65000 max mem : 19505  loss: 10.5550, 2d joint loss: 0.0093, 3d joint loss: 0.0056, vertex loss: 0.0398, compute: 0.9264, data: 0.0269, lr: 0.000010
+INFO:METRO:eta: 13:38:11 epoch: 16 iter: 66000 max mem : 19505  loss: 10.4830, 2d joint loss: 0.0092, 3d joint loss: 0.0056, vertex loss: 0.0396, compute: 0.9261, data: 0.0266, lr: 0.000010
+INFO:METRO:eta: 13:22:31 epoch: 16 iter: 67000 max mem : 19505  loss: 10.4056, 2d joint loss: 0.0092, 3d joint loss: 0.0056, vertex loss: 0.0394, compute: 0.9258, data: 0.0263, lr: 0.000010
+INFO:METRO:Validation epoch: 17  mPVE:   0.00, mPJPE:  59.44, PAmPJPE:  39.78, Data Count:   0.00
+INFO:METRO:eta: 13:07:54 epoch: 17 iter: 68000 max mem : 19505  loss: 10.3310, 2d joint loss: 0.0091, 3d joint loss: 0.0055, vertex loss: 0.0392, compute: 0.9268, data: 0.0272, lr: 0.000010
+INFO:METRO:eta: 12:52:14 epoch: 17 iter: 69000 max mem : 19505  loss: 10.2596, 2d joint loss: 0.0090, 3d joint loss: 0.0055, vertex loss: 0.0390, compute: 0.9265, data: 0.0269, lr: 0.000010
+INFO:METRO:eta: 12:36:35 epoch: 17 iter: 70000 max mem : 19505  loss: 10.1868, 2d joint loss: 0.0090, 3d joint loss: 0.0054, vertex loss: 0.0388, compute: 0.9262, data: 0.0266, lr: 0.000010
+INFO:METRO:eta: 12:20:56 epoch: 17 iter: 71000 max mem : 19505  loss: 10.1191, 2d joint loss: 0.0089, 3d joint loss: 0.0054, vertex loss: 0.0386, compute: 0.9260, data: 0.0263, lr: 0.000010
+INFO:METRO:Validation epoch: 18  mPVE:   0.00, mPJPE:  58.28, PAmPJPE:  39.20, Data Count:   0.00
+INFO:METRO:eta: 12:06:14 epoch: 18 iter: 72000 max mem : 19505  loss: 10.0539, 2d joint loss: 0.0089, 3d joint loss: 0.0053, vertex loss: 0.0384, compute: 0.9269, data: 0.0272, lr: 0.000010
+INFO:METRO:eta: 11:50:36 epoch: 18 iter: 73000 max mem : 19505  loss: 9.9877, 2d joint loss: 0.0088, 3d joint loss: 0.0053, vertex loss: 0.0382, compute: 0.9267, data: 0.0269, lr: 0.000010
+INFO:METRO:eta: 11:34:57 epoch: 18 iter: 74000 max mem : 19505  loss: 9.9252, 2d joint loss: 0.0087, 3d joint loss: 0.0052, vertex loss: 0.0381, compute: 0.9264, data: 0.0266, lr: 0.000010
+INFO:METRO:eta: 11:19:21 epoch: 18 iter: 75000 max mem : 19505  loss: 9.8623, 2d joint loss: 0.0087, 3d joint loss: 0.0052, vertex loss: 0.0379, compute: 0.9262, data: 0.0264, lr: 0.000010
+INFO:METRO:Validation epoch: 19  mPVE:   0.00, mPJPE:  57.24, PAmPJPE:  38.94, Data Count:   0.00
+INFO:METRO:eta: 11:04:28 epoch: 19 iter: 76000 max mem : 19505  loss: 9.7997, 2d joint loss: 0.0086, 3d joint loss: 0.0052, vertex loss: 0.0377, compute: 0.9270, data: 0.0272, lr: 0.000010
+INFO:METRO:eta: 10:48:50 epoch: 19 iter: 77000 max mem : 19505  loss: 9.7391, 2d joint loss: 0.0086, 3d joint loss: 0.0051, vertex loss: 0.0375, compute: 0.9267, data: 0.0269, lr: 0.000010
+INFO:METRO:eta: 10:33:14 epoch: 19 iter: 78000 max mem : 19505  loss: 9.6793, 2d joint loss: 0.0085, 3d joint loss: 0.0051, vertex loss: 0.0374, compute: 0.9265, data: 0.0267, lr: 0.000010
+INFO:METRO:eta: 10:17:37 epoch: 19 iter: 79000 max mem : 19505  loss: 9.6195, 2d joint loss: 0.0085, 3d joint loss: 0.0050, vertex loss: 0.0372, compute: 0.9262, data: 0.0264, lr: 0.000010
+INFO:METRO:Validation epoch: 20  mPVE:   0.00, mPJPE:  57.76, PAmPJPE:  39.52, Data Count:   0.00
+INFO:METRO:eta: 10:02:40 epoch: 20 iter: 80000 max mem : 19505  loss: 9.5621, 2d joint loss: 0.0084, 3d joint loss: 0.0050, vertex loss: 0.0371, compute: 0.9270, data: 0.0272, lr: 0.000010
+INFO:METRO:eta: 9:47:03 epoch: 20 iter: 81000 max mem : 19505  loss: 9.5083, 2d joint loss: 0.0084, 3d joint loss: 0.0050, vertex loss: 0.0369, compute: 0.9267, data: 0.0269, lr: 0.000010
+INFO:METRO:eta: 9:31:28 epoch: 20 iter: 82000 max mem : 19505  loss: 9.4524, 2d joint loss: 0.0083, 3d joint loss: 0.0049, vertex loss: 0.0368, compute: 0.9265, data: 0.0267, lr: 0.000010
+INFO:METRO:eta: 9:15:53 epoch: 20 iter: 83000 max mem : 19505  loss: 9.4008, 2d joint loss: 0.0083, 3d joint loss: 0.0049, vertex loss: 0.0366, compute: 0.9262, data: 0.0264, lr: 0.000010
+INFO:METRO:Validation epoch: 21  mPVE:   0.00, mPJPE:  56.20, PAmPJPE:  38.69, Data Count:   0.00
+INFO:METRO:eta: 9:00:51 epoch: 21 iter: 84000 max mem : 19505  loss: 9.3471, 2d joint loss: 0.0083, 3d joint loss: 0.0049, vertex loss: 0.0365, compute: 0.9269, data: 0.0272, lr: 0.000010
+INFO:METRO:eta: 8:45:16 epoch: 21 iter: 85000 max mem : 19505  loss: 9.2949, 2d joint loss: 0.0082, 3d joint loss: 0.0048, vertex loss: 0.0363, compute: 0.9267, data: 0.0270, lr: 0.000010
+INFO:METRO:eta: 8:29:40 epoch: 21 iter: 86000 max mem : 19505  loss: 9.2434, 2d joint loss: 0.0082, 3d joint loss: 0.0048, vertex loss: 0.0362, compute: 0.9264, data: 0.0267, lr: 0.000010
+INFO:METRO:eta: 8:14:07 epoch: 21 iter: 87000 max mem : 19505  loss: 9.1933, 2d joint loss: 0.0081, 3d joint loss: 0.0048, vertex loss: 0.0360, compute: 0.9262, data: 0.0265, lr: 0.000010
+INFO:METRO:Validation epoch: 22  mPVE:   0.00, mPJPE:  56.80, PAmPJPE:  39.27, Data Count:   0.00
+INFO:METRO:eta: 7:59:05 epoch: 22 iter: 88000 max mem : 19505  loss: 9.1430, 2d joint loss: 0.0081, 3d joint loss: 0.0047, vertex loss: 0.0359, compute: 0.9270, data: 0.0272, lr: 0.000010
+INFO:METRO:eta: 7:43:33 epoch: 22 iter: 89000 max mem : 19505  loss: 9.0951, 2d joint loss: 0.0080, 3d joint loss: 0.0047, vertex loss: 0.0358, compute: 0.9268, data: 0.0270, lr: 0.000010
+INFO:METRO:eta: 7:28:01 epoch: 22 iter: 90000 max mem : 19505  loss: 9.0477, 2d joint loss: 0.0080, 3d joint loss: 0.0047, vertex loss: 0.0356, compute: 0.9266, data: 0.0268, lr: 0.000010
+INFO:METRO:eta: 7:12:28 epoch: 22 iter: 91000 max mem : 19505  loss: 9.0016, 2d joint loss: 0.0080, 3d joint loss: 0.0047, vertex loss: 0.0355, compute: 0.9264, data: 0.0265, lr: 0.000010
+INFO:METRO:Validation epoch: 23  mPVE:   0.00, mPJPE:  56.68, PAmPJPE:  39.29, Data Count:   0.00
+INFO:METRO:eta: 6:57:19 epoch: 23 iter: 92000 max mem : 19505  loss: 8.9570, 2d joint loss: 0.0079, 3d joint loss: 0.0046, vertex loss: 0.0354, compute: 0.9270, data: 0.0272, lr: 0.000010
+INFO:METRO:eta: 6:41:46 epoch: 23 iter: 93000 max mem : 19505  loss: 8.9131, 2d joint loss: 0.0079, 3d joint loss: 0.0046, vertex loss: 0.0353, compute: 0.9268, data: 0.0270, lr: 0.000010
+INFO:METRO:eta: 6:26:14 epoch: 23 iter: 94000 max mem : 19505  loss: 8.8690, 2d joint loss: 0.0079, 3d joint loss: 0.0046, vertex loss: 0.0352, compute: 0.9266, data: 0.0267, lr: 0.000010
+INFO:METRO:eta: 6:10:42 epoch: 23 iter: 95000 max mem : 19505  loss: 8.8272, 2d joint loss: 0.0078, 3d joint loss: 0.0045, vertex loss: 0.0350, compute: 0.9264, data: 0.0265, lr: 0.000010
+INFO:METRO:Validation epoch: 24  mPVE:   0.00, mPJPE:  56.49, PAmPJPE:  38.95, Data Count:   0.00
+INFO:METRO:eta: 5:55:31 epoch: 24 iter: 96000 max mem : 19505  loss: 8.7847, 2d joint loss: 0.0078, 3d joint loss: 0.0045, vertex loss: 0.0349, compute: 0.9271, data: 0.0272, lr: 0.000010
+INFO:METRO:eta: 5:40:00 epoch: 24 iter: 97000 max mem : 19505  loss: 8.7429, 2d joint loss: 0.0078, 3d joint loss: 0.0045, vertex loss: 0.0348, compute: 0.9269, data: 0.0270, lr: 0.000010
+INFO:METRO:eta: 5:24:28 epoch: 24 iter: 98000 max mem : 19505  loss: 8.7025, 2d joint loss: 0.0077, 3d joint loss: 0.0045, vertex loss: 0.0347, compute: 0.9266, data: 0.0268, lr: 0.000010
+INFO:METRO:eta: 5:08:58 epoch: 24 iter: 99000 max mem : 19505  loss: 8.6608, 2d joint loss: 0.0077, 3d joint loss: 0.0044, vertex loss: 0.0346, compute: 0.9264, data: 0.0266, lr: 0.000010
+INFO:METRO:Validation epoch: 25  mPVE:   0.00, mPJPE:  57.41, PAmPJPE:  39.03, Data Count:   0.00
+INFO:METRO:eta: 4:53:43 epoch: 25 iter: 100000 max mem : 19505  loss: 8.6215, 2d joint loss: 0.0077, 3d joint loss: 0.0044, vertex loss: 0.0345, compute: 0.9271, data: 0.0272, lr: 0.000010
+INFO:METRO:eta: 4:38:12 epoch: 25 iter: 101000 max mem : 19505  loss: 8.5833, 2d joint loss: 0.0076, 3d joint loss: 0.0044, vertex loss: 0.0344, compute: 0.9269, data: 0.0270, lr: 0.000010
+INFO:METRO:eta: 4:22:42 epoch: 25 iter: 102000 max mem : 19505  loss: 8.5463, 2d joint loss: 0.0076, 3d joint loss: 0.0044, vertex loss: 0.0343, compute: 0.9266, data: 0.0268, lr: 0.000010
+INFO:METRO:eta: 4:07:12 epoch: 25 iter: 103000 max mem : 19505  loss: 8.5081, 2d joint loss: 0.0076, 3d joint loss: 0.0043, vertex loss: 0.0342, compute: 0.9264, data: 0.0266, lr: 0.000010
+INFO:METRO:Validation epoch: 26  mPVE:   0.00, mPJPE:  57.38, PAmPJPE:  38.92, Data Count:   0.00
+INFO:METRO:eta: 3:51:54 epoch: 26 iter: 104000 max mem : 19505  loss: 8.4709, 2d joint loss: 0.0075, 3d joint loss: 0.0043, vertex loss: 0.0341, compute: 0.9270, data: 0.0272, lr: 0.000010
+INFO:METRO:eta: 3:36:25 epoch: 26 iter: 105000 max mem : 19505  loss: 8.4327, 2d joint loss: 0.0075, 3d joint loss: 0.0043, vertex loss: 0.0340, compute: 0.9269, data: 0.0270, lr: 0.000010
+INFO:METRO:eta: 3:20:55 epoch: 26 iter: 106000 max mem : 19505  loss: 8.3980, 2d joint loss: 0.0075, 3d joint loss: 0.0043, vertex loss: 0.0339, compute: 0.9267, data: 0.0268, lr: 0.000010
+INFO:METRO:eta: 3:05:27 epoch: 26 iter: 107000 max mem : 19505  loss: 8.3625, 2d joint loss: 0.0074, 3d joint loss: 0.0042, vertex loss: 0.0338, compute: 0.9265, data: 0.0266, lr: 0.000010
+INFO:METRO:Validation epoch: 27  mPVE:   0.00, mPJPE:  58.01, PAmPJPE:  39.57, Data Count:   0.00
+INFO:METRO:eta: 2:50:07 epoch: 27 iter: 108000 max mem : 19505  loss: 8.3284, 2d joint loss: 0.0074, 3d joint loss: 0.0042, vertex loss: 0.0337, compute: 0.9271, data: 0.0272, lr: 0.000010
+INFO:METRO:eta: 2:34:38 epoch: 27 iter: 109000 max mem : 19505  loss: 8.2952, 2d joint loss: 0.0074, 3d joint loss: 0.0042, vertex loss: 0.0336, compute: 0.9270, data: 0.0270, lr: 0.000010
+INFO:METRO:eta: 2:19:10 epoch: 27 iter: 110000 max mem : 19505  loss: 8.2605, 2d joint loss: 0.0074, 3d joint loss: 0.0042, vertex loss: 0.0335, compute: 0.9268, data: 0.0268, lr: 0.000010
+INFO:METRO:eta: 2:03:42 epoch: 27 iter: 111000 max mem : 19505  loss: 8.2278, 2d joint loss: 0.0073, 3d joint loss: 0.0042, vertex loss: 0.0334, compute: 0.9266, data: 0.0267, lr: 0.000010
+INFO:METRO:Validation epoch: 28  mPVE:   0.00, mPJPE:  57.23, PAmPJPE:  38.82, Data Count:   0.00
+INFO:METRO:eta: 1:48:19 epoch: 28 iter: 112000 max mem : 19505  loss: 8.1942, 2d joint loss: 0.0073, 3d joint loss: 0.0041, vertex loss: 0.0333, compute: 0.9272, data: 0.0272, lr: 0.000010
+INFO:METRO:eta: 1:32:51 epoch: 28 iter: 113000 max mem : 19505  loss: 8.1610, 2d joint loss: 0.0073, 3d joint loss: 0.0041, vertex loss: 0.0332, compute: 0.9270, data: 0.0270, lr: 0.000010
+INFO:METRO:eta: 1:17:23 epoch: 28 iter: 114000 max mem : 19505  loss: 8.1283, 2d joint loss: 0.0073, 3d joint loss: 0.0041, vertex loss: 0.0331, compute: 0.9269, data: 0.0268, lr: 0.000010
+INFO:METRO:eta: 1:01:56 epoch: 28 iter: 115000 max mem : 19505  loss: 8.0970, 2d joint loss: 0.0072, 3d joint loss: 0.0041, vertex loss: 0.0330, compute: 0.9267, data: 0.0267, lr: 0.000010
+INFO:METRO:Validation epoch: 29  mPVE:   0.00, mPJPE:  58.16, PAmPJPE:  38.98, Data Count:   0.00
+INFO:METRO:eta: 0:46:31 epoch: 29 iter: 116000 max mem : 19505  loss: 8.0655, 2d joint loss: 0.0072, 3d joint loss: 0.0041, vertex loss: 0.0329, compute: 0.9272, data: 0.0272, lr: 0.000010
+INFO:METRO:eta: 0:31:03 epoch: 29 iter: 117000 max mem : 19505  loss: 8.0347, 2d joint loss: 0.0072, 3d joint loss: 0.0040, vertex loss: 0.0329, compute: 0.9271, data: 0.0270, lr: 0.000010
+INFO:METRO:eta: 0:15:36 epoch: 29 iter: 118000 max mem : 19505  loss: 8.0040, 2d joint loss: 0.0072, 3d joint loss: 0.0040, vertex loss: 0.0328, compute: 0.9270, data: 0.0268, lr: 0.000010
+INFO:METRO:eta: 0:00:09 epoch: 29 iter: 119000 max mem : 19505  loss: 7.9739, 2d joint loss: 0.0071, 3d joint loss: 0.0040, vertex loss: 0.0327, compute: 0.9268, data: 0.0267, lr: 0.000010
+INFO:METRO:eta: 0:00:00 epoch: 30 iter: 119010 max mem : 19505  loss: 7.9735, 2d joint loss: 0.0071, 3d joint loss: 0.0040, vertex loss: 0.0327, compute: 0.9268, data: 0.0267, lr: 0.000001
+INFO:METRO:Validation epoch: 30  mPVE:   0.00, mPJPE:  58.87, PAmPJPE:  39.87, Data Count:   0.00
+INFO:METRO:Total training time: 1 day, 6:39:45.866387 (0.9275 s / iter)
+INFO:METRO: Best Results:  mPVE:   0.00, mPJPE:  56.20, PAmPJPE:  38.69, at epoch  21.00
