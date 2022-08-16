@@ -33,6 +33,8 @@ from metro.utils.miscellaneous import mkdir, set_seed
 from PIL import Image
 from torchvision import transforms
 
+import easydict
+
 transform = transforms.Compose([           
                     transforms.Resize(224),
                     transforms.CenterCrop(224),
@@ -144,14 +146,14 @@ def parse_args():
     #########################################################
     # Data related arguments
     #########################################################
-    parser.add_argument("--image_file_or_path", default='./test_images/human-body', type=str, 
+    parser.add_argument("--image_file_or_path", default='/root/MeshTransformer/samples/human-body', type=str, 
                         help="test data")
     #########################################################
     # Loading/saving checkpoints
     #########################################################
-    parser.add_argument("--model_name_or_path", default='metro/modeling/bert/bert-base-uncased/', type=str, required=False,
+    parser.add_argument("--model_name_or_path", default='/root/MeshTransformer/metro/modeling/bert/bert-base-uncased/', type=str, required=False,
                         help="Path to pre-trained transformer model or model type.")
-    parser.add_argument("--resume_checkpoint", default=None, type=str, required=False,
+    parser.add_argument("--resume_checkpoint", default='/root/MeshTransformer/models/metro_release/metro_3dpw_state_dict.bin', type=str, required=False,
                         help="Path to specific checkpoint for inference.")
     parser.add_argument("--output_dir", default='output/', type=str, required=False,
                         help="The output directory to save checkpoint and test results.")
@@ -253,14 +255,14 @@ def main(args):
 
         # init ImageNet pre-trained backbone model
         if args.arch=='hrnet':
-            hrnet_yaml = 'models/hrnet/cls_hrnet_w40_sgd_lr5e-2_wd1e-4_bs32_x100.yaml'
-            hrnet_checkpoint = 'models/hrnet/hrnetv2_w40_imagenet_pretrained.pth'
+            hrnet_yaml = '/root/MeshTransformer/models/hrnet/cls_hrnet_w40_sgd_lr5e-2_wd1e-4_bs32_x100.yaml'
+            hrnet_checkpoint = '/root/MeshTransformer/models/hrnet/hrnetv2_w40_imagenet_pretrained.pth'
             hrnet_update_config(hrnet_config, hrnet_yaml)
             backbone = get_cls_net(hrnet_config, pretrained=hrnet_checkpoint)
             logger.info('=> loading hrnet-v2-w40 model')
         elif args.arch=='hrnet-w64':
-            hrnet_yaml = 'models/hrnet/cls_hrnet_w64_sgd_lr5e-2_wd1e-4_bs32_x100.yaml'
-            hrnet_checkpoint = 'models/hrnet/hrnetv2_w64_imagenet_pretrained.pth'
+            hrnet_yaml = '/root/MeshTransformer/models/hrnet/cls_hrnet_w64_sgd_lr5e-2_wd1e-4_bs32_x100.yaml'
+            hrnet_checkpoint = '/root/MeshTransformer/models/hrnet/hrnetv2_w64_imagenet_pretrained.pth'
             hrnet_update_config(hrnet_config, hrnet_yaml)
             backbone = get_cls_net(hrnet_config, pretrained=hrnet_checkpoint)
             logger.info('=> loading hrnet-v2-w64 model')
